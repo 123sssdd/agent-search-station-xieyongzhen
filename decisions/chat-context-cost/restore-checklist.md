@@ -72,3 +72,8 @@
 5. box 浏览器重新登录（如 Reddit 的 Google 登录，两步验证）——用户，网站见 sites-to-login.md。
 6. 重设密钥环境变量（如 EXA_API_KEY），值不进文件——用户。
 7. 按 scripts/ 重装 SearXNG、RSSHub 等——Github 管家/Searcher。
+
+## 补充（v3-31，2026-10-31 14:57）
+- 每个 bot 恢复时还要读：`context/<bot>/routines.md`（定时任务登记，记录内容和原时间；按 v3-31 时间待定、全部暂停，由用户决定何时恢复）和 `memory-export/<bot>.md`（平台记忆的脱敏导出，用来在新 bot 里重建记忆）。
+- 人工步骤由用户本人做：连接器授权、浏览器登录、密钥设置、新建 bot 本体，bot 不用代办。
+- 恢复抽测（dry-run）暂不做。
