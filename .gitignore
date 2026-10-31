@@ -1,0 +1,34 @@
+# 第三方代码/依赖/虚拟环境
+node22/
+rsshub/
+searxng/
+.venv*/
+.corepack/
+node_modules/
+__pycache__/
+*.pyc
+# 归档
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+# lock
+*.lock
+lock-*
+# 密钥类
+.env*
+!.env.example
+*cookie*
+*token*
+*secret*
+*.pem
+*.key
+credentials*
+# 大文件 >50MB（均位于上述已排除目录中）
+.venv-search/lib/python3.13/site-packages/playwright/driver/node
+.venv-search/lib/python3.13/site-packages/patchright/driver/node
+.corepack/v1/pnpm/12.15.0/pnpm-native
+# 保留
+!oss-contrib/registry.json
+searx-etc/settings.yml

@@ -1,0 +1,11 @@
+  syscall: 'mkdir',
+  path: '/usr/local/share/corepack/v1'
+}
+
+Node.js v22.23.4
+  syscall: 'mkdir',
+  path: '/usr/local/share/corepack/v1'
+}
+
+Node.js v22.23.4
+RSSDONE

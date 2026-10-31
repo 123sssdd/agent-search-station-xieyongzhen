@@ -1,0 +1,6 @@
+{
+ "search": "02b061ce099402962db0d046f09171d25671deb71b0a115aacef93805abd1086",
+ "eval": "d946246dab4ba1031f5c8549f040f95472db7493c4980e96ae1e66e8e487a2a5",
+ "verdict:decisions/round-20261029-0220-01/质量评估-20261029-0232.md": "8b543f0b2c677e04250fa4a5a7578b5b6001f4cc79aad72f37bd2f0342c9d4aa",
+ "refrozen_note": "2026-10-29 02:48 search re-frozen after Searcher correction; 质量评估 confirmed eval unaffected"
+}

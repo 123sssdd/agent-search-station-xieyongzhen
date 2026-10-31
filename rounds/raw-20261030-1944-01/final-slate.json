@@ -1,0 +1,1179 @@
+[
+  {
+    "repo": "maximhq/bifrost",
+    "meta": {
+      "archived": false,
+      "description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.",
+      "language": "Go",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-30T11:50:11Z",
+      "stars": 9219,
+      "updated_at": "2026-10-30T11:37:39Z"
+    },
+    "gfi_open": 14,
+    "gfi_unassigned": 11,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 6119,
+        "title": "network_config.base_url doesn't support env.VARNAME substitution like key values do",
+        "url": "https://github.com/maximhq/bifrost/issues/6119"
+      },
+      {
+        "number": 5954,
+        "title": "[Feature]: add qwen as a built-in provider",
+        "url": "https://github.com/maximhq/bifrost/issues/5954"
+      },
+      {
+        "number": 4740,
+        "title": "[Feature]: Add Requesty as a provider",
+        "url": "https://github.com/maximhq/bifrost/issues/4740"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "maximhq/bifrost",
+      "merged_sample": 30,
+      "closed_sample": 30,
+      "merge_rate_sample": 1.0,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "pipeshub-ai/pipeshub-ai",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 40+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-30T11:39:08Z",
+      "stars": 3896,
+      "updated_at": "2026-10-30T11:39:13Z"
+    },
+    "gfi_open": 20,
+    "gfi_unassigned": 17,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 5079,
+        "title": "Add Square to the MCP server catalog",
+        "url": "https://github.com/pipeshub-ai/pipeshub-ai/issues/5079"
+      },
+      {
+        "number": 5078,
+        "title": "Add PayPal to the MCP server catalog",
+        "url": "https://github.com/pipeshub-ai/pipeshub-ai/issues/5078"
+      },
+      {
+        "number": 5077,
+        "title": "Add Egnyte to the MCP server catalog",
+        "url": "https://github.com/pipeshub-ai/pipeshub-ai/issues/5077"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "pipeshub-ai/pipeshub-ai",
+      "merged_sample": 27,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.9,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "NVIDIA/garak",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "the LLM vulnerability scanner",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-27T18:16:24Z",
+      "stars": 9783,
+      "updated_at": "2026-10-30T11:47:09Z"
+    },
+    "gfi_open": 15,
+    "gfi_unassigned": 15,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 1349,
+        "title": "probe: anamorpher image",
+        "url": "https://github.com/NVIDIA/garak/issues/1349"
+      },
+      {
+        "number": 1275,
+        "title": "feature: make llmaaj prompts switchable",
+        "url": "https://github.com/NVIDIA/garak/issues/1275"
+      },
+      {
+        "number": 1221,
+        "title": "arch: give exit codes on improper exit",
+        "url": "https://github.com/NVIDIA/garak/issues/1221"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "NVIDIA/garak",
+      "merged_sample": 17,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.57,
+      "url_status": "200",
+      "cla_hint": "34:Before you ask a question, it is best to search for existing [Issues](https://github.com/NVIDIA/garak/issues) that might help you. In case you have found a suitable issue and still need clarificati"
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "truera/trulens",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+      "language": "Python",
+      "license": "MIT",
+      "pushed_at": "2026-10-29T17:00:47Z",
+      "stars": 3621,
+      "updated_at": "2026-10-30T09:06:03Z"
+    },
+    "gfi_open": 5,
+    "gfi_unassigned": 5,
+    "hw_open": 18,
+    "hw_unassigned": 15,
+    "gfi_samples": [
+      {
+        "number": 2891,
+        "title": "Conversation metric: user frustration",
+        "url": "https://github.com/truera/trulens/issues/2891"
+      },
+      {
+        "number": 2880,
+        "title": "Record cache-read tokens for every provider",
+        "url": "https://github.com/truera/trulens/issues/2880"
+      },
+      {
+        "number": 2481,
+        "title": "CI/CD Example: GitLab CI Eval Gate",
+        "url": "https://github.com/truera/trulens/issues/2481"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 2893,
+        "title": "Conversation metric: stance stability",
+        "url": "https://github.com/truera/trulens/issues/2893"
+      },
+      {
+        "number": 2891,
+        "title": "Conversation metric: user frustration",
+        "url": "https://github.com/truera/trulens/issues/2891"
+      }
+    ],
+    "merge": {
+      "repo": "truera/trulens",
+      "merged_sample": 29,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.97,
+      "url_status": "200",
+      "cla_hint": "49:Found something confusing? If it confused you, it's confusing others too. Documentation improvements are always welcome—from fixing typos to clarifying concepts.\n94:Feel free to claim an issue by c"
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "traceloop/openllmetry",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-19T10:49:59Z",
+      "stars": 7512,
+      "updated_at": "2026-10-30T08:18:22Z"
+    },
+    "gfi_open": 7,
+    "gfi_unassigned": 7,
+    "hw_open": 11,
+    "hw_unassigned": 11,
+    "gfi_samples": [
+      {
+        "number": 4069,
+        "title": "🚀 Feature: Suggestion: Add beginner-friendly example for LLM tracing",
+        "url": "https://github.com/traceloop/openllmetry/issues/4069"
+      },
+      {
+        "number": 3492,
+        "title": "🐛 Bug Report: `opentelemetry-instrumentation-qdrant` is incompatible with `qdrant-client` version `1.16.1`",
+        "url": "https://github.com/traceloop/openllmetry/issues/3492"
+      },
+      {
+        "number": 2803,
+        "title": "🚀 Feature: Install less packages",
+        "url": "https://github.com/traceloop/openllmetry/issues/2803"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 3492,
+        "title": "🐛 Bug Report: `opentelemetry-instrumentation-qdrant` is incompatible with `qdrant-client` version `1.16.1`",
+        "url": "https://github.com/traceloop/openllmetry/issues/3492"
+      },
+      {
+        "number": 2803,
+        "title": "🚀 Feature: Install less packages",
+        "url": "https://github.com/traceloop/openllmetry/issues/2803"
+      }
+    ],
+    "merge": {
+      "repo": "traceloop/openllmetry",
+      "merged_sample": 17,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.57,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "twinnydotdev/twinny",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
+      "language": "TypeScript",
+      "license": "MIT",
+      "pushed_at": "2026-10-16T19:20:53Z",
+      "stars": 3686,
+      "updated_at": "2026-10-30T10:47:58Z"
+    },
+    "gfi_open": 7,
+    "gfi_unassigned": 7,
+    "hw_open": 9,
+    "hw_unassigned": 9,
+    "gfi_samples": [
+      {
+        "number": 386,
+        "title": "Large files cause freeze when embedding",
+        "url": "https://github.com/twinnydotdev/twinny/issues/386"
+      },
+      {
+        "number": 337,
+        "title": "Embedding Doesn't Work Without Manually Pulling Embedding Model",
+        "url": "https://github.com/twinnydotdev/twinny/issues/337"
+      },
+      {
+        "number": 330,
+        "title": "Providing reference files in a prompt template?",
+        "url": "https://github.com/twinnydotdev/twinny/issues/330"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 386,
+        "title": "Large files cause freeze when embedding",
+        "url": "https://github.com/twinnydotdev/twinny/issues/386"
+      },
+      {
+        "number": 335,
+        "title": "Stuck GUI",
+        "url": "https://github.com/twinnydotdev/twinny/issues/335"
+      }
+    ],
+    "merge": {
+      "repo": "twinnydotdev/twinny",
+      "merged_sample": 26,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.87,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "anthropics/claude-agent-sdk-python",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": null,
+      "language": "Python",
+      "license": "MIT",
+      "pushed_at": "2026-10-30T01:50:50Z",
+      "stars": 8392,
+      "updated_at": "2026-10-30T07:57:46Z"
+    },
+    "gfi_open": 9,
+    "gfi_unassigned": 9,
+    "hw_open": 1,
+    "hw_unassigned": 1,
+    "gfi_samples": [
+      {
+        "number": 1441,
+        "title": "fork_session drops transcript entries containing U+2028/U+2029/U+0085 (str.splitlines), breaking the parentUuid chain",
+        "url": "https://github.com/anthropics/claude-agent-sdk-python/issues/1441"
+      },
+      {
+        "number": 1409,
+        "title": "Project directory key differs from the CLI when the cwd contains a character outside the BMP (emoji)",
+        "url": "https://github.com/anthropics/claude-agent-sdk-python/issues/1409"
+      },
+      {
+        "number": 1394,
+        "title": "CLIJSONDecodeError cannot be pickled or copied, breaking ProcessPoolExecutor",
+        "url": "https://github.com/anthropics/claude-agent-sdk-python/issues/1394"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 120,
+        "title": "slash commands",
+        "url": "https://github.com/anthropics/claude-agent-sdk-python/issues/120"
+      }
+    ],
+    "merge": {
+      "repo": "anthropics/claude-agent-sdk-python",
+      "merged_sample": 21,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.7,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "katanemo/plano",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.",
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-24T19:03:25Z",
+      "stars": 7102,
+      "updated_at": "2026-10-30T06:27:00Z"
+    },
+    "gfi_open": 3,
+    "gfi_unassigned": 3,
+    "hw_open": 9,
+    "hw_unassigned": 9,
+    "gfi_samples": [
+      {
+        "number": 787,
+        "title": "WASM filter hardcoded 30s timeout breaks agentic/tool-use workloads",
+        "url": "https://github.com/katanemo/plano/issues/787"
+      },
+      {
+        "number": 429,
+        "title": "List parameter types don't work in prompt_targets anymore",
+        "url": "https://github.com/katanemo/plano/issues/429"
+      },
+      {
+        "number": 181,
+        "title": "Add README.md for archgw cli on pypi",
+        "url": "https://github.com/katanemo/plano/issues/181"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 798,
+        "title": "Feature Request: Add v1beta compatibility for Gemini API",
+        "url": "https://github.com/katanemo/plano/issues/798"
+      },
+      {
+        "number": 563,
+        "title": "Reduce heap allocation during API transformations",
+        "url": "https://github.com/katanemo/plano/issues/563"
+      }
+    ],
+    "merge": {
+      "repo": "katanemo/plano",
+      "merged_sample": 28,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.93,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "IBM/mcp-context-forge",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-30T11:44:28Z",
+      "stars": 4729,
+      "updated_at": "2026-10-30T11:37:29Z"
+    },
+    "gfi_open": 4,
+    "gfi_unassigned": 4,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 5986,
+        "title": "Show build version and commit provenance in startup banner",
+        "url": "https://github.com/IBM/mcp-context-forge/issues/5986"
+      },
+      {
+        "number": 5848,
+        "title": "MUST remove or wire up 8 dead feature flags in config.py (settable but read by zero code)",
+        "url": "https://github.com/IBM/mcp-context-forge/issues/5848"
+      },
+      {
+        "number": 5500,
+        "title": "Configuration import fails for exported gateway and server data",
+        "url": "https://github.com/IBM/mcp-context-forge/issues/5500"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "IBM/mcp-context-forge",
+      "merged_sample": 27,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.9,
+      "url_status": "200",
+      "cla_hint": "107:In these cases, maintainers should ask the author to split, clarify, or update\n132:- **Naming**: `snake_case` functions, `PascalCase` classes, `UPPER_CASE` constants\n134:See [CLAUDE.md](CLAUDE.md#"
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "higress-group/higress",
+    "meta": {
+      "archived": false,
+      "description": "🤖 AI Gateway | AI Native API Gateway",
+      "language": "Go",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-30T09:57:30Z",
+      "stars": 9676,
+      "updated_at": "2026-10-30T09:57:41Z"
+    },
+    "gfi_open": 20,
+    "gfi_unassigned": 7,
+    "hw_open": 20,
+    "hw_unassigned": 19,
+    "gfi_samples": [
+      {
+        "number": 872,
+        "title": "hgctl Enhance the code-debug subcommand to support local debugging for higress/isio",
+        "url": "https://github.com/higress-group/higress/issues/872"
+      },
+      {
+        "number": 774,
+        "title": "SpringCloudGateway迁移到MSE Higress最佳实践",
+        "url": "https://github.com/higress-group/higress/issues/774"
+      },
+      {
+        "number": 767,
+        "title": "Add Custom Discoverer interface",
+        "url": "https://github.com/higress-group/higress/issues/767"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 3841,
+        "title": "Support OpenAI Responses API affinity across multiple providers/deployments",
+        "url": "https://github.com/higress-group/higress/issues/3841"
+      },
+      {
+        "number": 3840,
+        "title": "Support provider-level session affinity for AI Route / ai-proxy",
+        "url": "https://github.com/higress-group/higress/issues/3840"
+      }
+    ],
+    "merge": {
+      "repo": "higress-group/higress",
+      "merged_sample": 13,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.43,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "pydantic/logfire",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "AI observability platform for production LLM and agent systems.",
+      "language": "Python",
+      "license": "MIT",
+      "pushed_at": "2026-10-30T10:49:01Z",
+      "stars": 4526,
+      "updated_at": "2026-10-30T10:49:05Z"
+    },
+    "gfi_open": 4,
+    "gfi_unassigned": 4,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 1059,
+        "title": "Instrumentation with urllib3",
+        "url": "https://github.com/pydantic/logfire/issues/1059"
+      },
+      {
+        "number": 972,
+        "title": "Celery needs to be instrumented on client side for distributed tracing",
+        "url": "https://github.com/pydantic/logfire/issues/972"
+      },
+      {
+        "number": 939,
+        "title": "Adding support for opentelemetry-instrumentation-asyncio",
+        "url": "https://github.com/pydantic/logfire/issues/939"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "pydantic/logfire",
+      "merged_sample": 29,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.97,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "potpie-ai/potpie",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "Context Graph for AI Native SDLC",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-30T06:33:28Z",
+      "stars": 5780,
+      "updated_at": "2026-10-30T11:01:46Z"
+    },
+    "gfi_open": 4,
+    "gfi_unassigned": 4,
+    "hw_open": 1,
+    "hw_unassigned": 1,
+    "gfi_samples": [
+      {
+        "number": 726,
+        "title": "[Bug] High: create_user called twice in setup_dummy_user — causes IntegrityError or corrupts uid",
+        "url": "https://github.com/potpie-ai/potpie/issues/726"
+      },
+      {
+        "number": 640,
+        "title": "[Bug]: RepositoriesResource uses RepoManager with inconsistent base path (ignores RuntimeConfig.repos_base_path)",
+        "url": "https://github.com/potpie-ai/potpie/issues/640"
+      },
+      {
+        "number": 639,
+        "title": "[Bug/Performance]: Inconsistent async DB usage in fetch_parsing_status causes blocking calls",
+        "url": "https://github.com/potpie-ai/potpie/issues/639"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 726,
+        "title": "[Bug] High: create_user called twice in setup_dummy_user — causes IntegrityError or corrupts uid",
+        "url": "https://github.com/potpie-ai/potpie/issues/726"
+      }
+    ],
+    "merge": {
+      "repo": "potpie-ai/potpie",
+      "merged_sample": 29,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.97,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "kyegomez/swarms",
+    "meta": {
+      "archived": false,
+      "default_branch": "master",
+      "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-29T21:53:09Z",
+      "stars": 7331,
+      "updated_at": "2026-10-30T06:35:56Z"
+    },
+    "gfi_open": 3,
+    "gfi_unassigned": 3,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 1851,
+        "title": "[Cleanup] Four overlapping 'format any data structure as a string' helpers (~80 lines) — keep one",
+        "url": "https://github.com/kyegomez/swarms/issues/1851"
+      },
+      {
+        "number": 1838,
+        "title": "[Cleanup] formatter.py — 3 dead print methods (~142 lines) and 8 collapsible log-strip regexes",
+        "url": "https://github.com/kyegomez/swarms/issues/1838"
+      },
+      {
+        "number": 1835,
+        "title": "[Cleanup] Delete 23 unused prompt files in swarms/prompts/ (~1,677 lines)",
+        "url": "https://github.com/kyegomez/swarms/issues/1835"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "kyegomez/swarms",
+      "merged_sample": 29,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.97,
+      "url_status": "200",
+      "cla_hint": "66:- `Function/FileName`: the function, class, module or file the change is about.\n137:- **Docstrings** on every public class, function, and method ([Google style](http://google.github.io/styleguide/p"
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "future-agi/future-agi",
+    "meta": {
+      "archived": false,
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-30T11:49:18Z",
+      "stars": 2227,
+      "updated_at": "2026-10-30T05:29:04Z"
+    },
+    "gfi_open": 20,
+    "gfi_unassigned": 20,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 3563,
+        "title": "Show \"Unpriced\" instead of $0.00 in Gateway Request Logs for models with no price",
+        "url": "https://github.com/future-agi/future-agi/issues/3563"
+      },
+      {
+        "number": 2665,
+        "title": "Dataset and experiment row runs record only a final value, with no execution trace",
+        "url": "https://github.com/future-agi/future-agi/issues/2665"
+      },
+      {
+        "number": 2664,
+        "title": "A graph created from a trace keeps no link back to the spans it came from",
+        "url": "https://github.com/future-agi/future-agi/issues/2664"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "future-agi/future-agi",
+      "merged_sample": 26,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.87,
+      "url_status": "200",
+      "cla_hint": "26:## Contributor License Agreement (CLA)\n28:Before we can merge your first pull request, you'll need to sign our Contributor License Agreement. This is a one-click process that runs automatically on "
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "vshulcz/deja-vu",
+    "meta": {
+      "archived": false,
+      "description": "Coding agent memory for Claude Code, Codex, Cursor and 40 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.",
+      "language": "Go",
+      "license": "MIT",
+      "pushed_at": "2026-10-30T10:06:11Z",
+      "stars": 1339,
+      "updated_at": "2026-10-30T08:18:01Z"
+    },
+    "gfi_open": 13,
+    "gfi_unassigned": 13,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 5653,
+        "title": "Devin CLI on Windows: check where sessions.db and the config actually land",
+        "url": "https://github.com/vshulcz/deja-vu/issues/5653"
+      },
+      {
+        "number": 5652,
+        "title": "Crush: check what /user:deja sends the model, against a real Crush",
+        "url": "https://github.com/vshulcz/deja-vu/issues/5652"
+      },
+      {
+        "number": 5648,
+        "title": "a page for adding memory to Devin CLI",
+        "url": "https://github.com/vshulcz/deja-vu/issues/5648"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "vshulcz/deja-vu",
+      "merged_sample": 29,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.97,
+      "url_status": "200",
+      "cla_hint": "50:  `CURSOR_CONFIG_DIR`, `CLAUDE_CONFIG_DIR`, or\n91:- No CLA."
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "mex-memory/mex",
+    "meta": {
+      "archived": false,
+      "description": "Team memory for engineers and their AI agents. Lives in your repo. Shared through Git.",
+      "language": "TypeScript",
+      "license": "MIT",
+      "pushed_at": "2026-10-29T12:24:11Z",
+      "stars": 1781,
+      "updated_at": "2026-10-29T12:24:17Z"
+    },
+    "gfi_open": 5,
+    "gfi_unassigned": 5,
+    "hw_open": 1,
+    "hw_unassigned": 1,
+    "gfi_samples": [
+      {
+        "number": 318,
+        "title": "A killed setup can leave its agent running, and a second setup then starts more agents",
+        "url": "https://github.com/mex-memory/mex/issues/318"
+      },
+      {
+        "number": 269,
+        "title": "Setup wizard shows an empty 'Session ended' transcript when no population agent was launched",
+        "url": "https://github.com/mex-memory/mex/issues/269"
+      },
+      {
+        "number": 231,
+        "title": "check false positives on clean scaffolds not covered by #201-#203",
+        "url": "https://github.com/mex-memory/mex/issues/231"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 11,
+        "title": "Add setup.ps1 for native Windows/PowerShell support",
+        "url": "https://github.com/mex-memory/mex/issues/11"
+      }
+    ],
+    "merge": {
+      "repo": "mex-memory/mex",
+      "merged_sample": 26,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.87,
+      "url_status": "200err",
+      "cla_hint": "57:    claims.ts         # Extract claims from markdown files\n69:New checkers are the most newcomer-friendly contribution. A checker is a small function that inspects scaffold files (or extracted clai"
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "AgenticResourceRegistry/AgenticResourceRegistry",
+    "meta": {
+      "archived": false,
+      "default_branch": "main",
+      "description": "Share and discover coding agent resources across your team. Self-hosted, Apache 2.0, works with Claude Code, Kiro, Cursor, Codex, Pi and more.",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-30T08:25:42Z",
+      "stars": 4534,
+      "updated_at": "2026-10-30T00:43:53Z"
+    },
+    "gfi_open": 20,
+    "gfi_unassigned": 8,
+    "hw_open": 3,
+    "hw_unassigned": 1,
+    "gfi_samples": [
+      {
+        "number": 1971,
+        "title": "Web UI and README show `observal pull`, which no longer exists (use `observal agent pull`)",
+        "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry/issues/1971"
+      },
+      {
+        "number": 867,
+        "title": "Add harness badge colors for opencode in trace-list",
+        "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry/issues/867"
+      },
+      {
+        "number": 866,
+        "title": "CONTRIBUTING: \"Adding a new harness\" walkthrough",
+        "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry/issues/866"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 1376,
+        "title": "Add harness support: Zed",
+        "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry/issues/1376"
+      }
+    ],
+    "merge": {
+      "repo": "AgenticResourceRegistry/AgenticResourceRegistry",
+      "merged_sample": 27,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.9,
+      "url_status": "200",
+      "cla_hint": "37:* [CLA](CONTRIBUTING.md#contributor-license-agreement-cla)\n99:### Claiming Issues\n107:> Issues labeled `keep open` cannot be claimed. Anyone may submit a PR for those without assignment."
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "agentscope-ai/agentscope-java",
+    "meta": {
+      "archived": false,
+      "description": "Build distributed, production-grade, long-running agents.",
+      "language": "Java",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-30T09:33:25Z",
+      "stars": 6196,
+      "updated_at": "2026-10-30T10:36:35Z"
+    },
+    "gfi_open": 6,
+    "gfi_unassigned": 1,
+    "hw_open": 20,
+    "hw_unassigned": 13,
+    "gfi_samples": [
+      {
+        "number": 2271,
+        "title": "[Bug]:window系统下执行任何命令工具 execute 总是出错",
+        "url": "https://github.com/agentscope-ai/agentscope-java/issues/2271"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 3356,
+        "title": "[Discussion]: Requirement gathering — should the framework introduce a multi-tenant dimension (tenant_id)?",
+        "url": "https://github.com/agentscope-ai/agentscope-java/issues/3356"
+      },
+      {
+        "number": 3237,
+        "title": "[Bug]SSE 断连导致本轮会话进度整体丢失：AgentState 仅在  call()  正常结束时落盘一次，所有 cancel 路径均无保存钩子",
+        "url": "https://github.com/agentscope-ai/agentscope-java/issues/3237"
+      }
+    ],
+    "merge": {
+      "repo": "agentscope-ai/agentscope-java",
+      "merged_sample": 25,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.83,
+      "url_status": "200",
+      "cla_hint": "50:feat(models): add support for Claude-3 model\n84:  # Run a specific test class\n85:  mvn test -Dtest=YourTestClassName"
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "LearningCircuit/local-deep-research",
+    "meta": {
+      "archived": false,
+      "description": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "license": "MIT",
+      "pushed_at": "2026-10-30T11:38:39Z",
+      "stars": 9447,
+      "updated_at": "2026-10-30T10:19:30Z"
+    },
+    "gfi_open": 1,
+    "gfi_unassigned": 1,
+    "hw_open": 5,
+    "hw_unassigned": 5,
+    "gfi_samples": [
+      {
+        "number": 4961,
+        "title": "Zotero page UX: smoother collection selection and friendlier sync feedback",
+        "url": "https://github.com/LearningCircuit/local-deep-research/issues/4961"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 4961,
+        "title": "Zotero page UX: smoother collection selection and friendlier sync feedback",
+        "url": "https://github.com/LearningCircuit/local-deep-research/issues/4961"
+      },
+      {
+        "number": 1504,
+        "title": "📣 Looking for Code Reviewers",
+        "url": "https://github.com/LearningCircuit/local-deep-research/issues/1504"
+      }
+    ],
+    "merge": {
+      "repo": "LearningCircuit/local-deep-research",
+      "merged_sample": 28,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.93,
+      "url_status": "200",
+      "cla_hint": "11:**Picking up an issue: just claim it.** You don't need to be assigned and you don't need a maintainer's permission for most issues. Leave a short comment on the issue saying you're working on it (f"
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "truefoundry/trueforge",
+    "meta": {
+      "archived": false,
+      "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
+      "language": "TypeScript",
+      "license": "MIT",
+      "pushed_at": "2026-10-30T11:36:29Z",
+      "stars": 6400,
+      "updated_at": "2026-10-30T10:48:14Z"
+    },
+    "gfi_open": 0,
+    "gfi_unassigned": 0,
+    "hw_open": 8,
+    "hw_unassigned": 3,
+    "gfi_samples": [],
+    "hw_samples": [
+      {
+        "number": 853,
+        "title": "Add Tavily web search provider",
+        "url": "https://github.com/truefoundry/trueforge/issues/853"
+      },
+      {
+        "number": 516,
+        "title": "Daytona API key expiry is unhandled in few of the places",
+        "url": "https://github.com/truefoundry/trueforge/issues/516"
+      }
+    ],
+    "merge": {
+      "repo": "truefoundry/trueforge",
+      "merged_sample": 27,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.9,
+      "url_status": "200",
+      "cla_hint": "14:- **Improve docs** - typo fixes and clarifications are always welcome."
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "cuga-project/cuga-agent",
+    "meta": {
+      "archived": false,
+      "description": "CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-29T19:59:12Z",
+      "stars": 1056,
+      "updated_at": "2026-10-29T20:29:50Z"
+    },
+    "gfi_open": 7,
+    "gfi_unassigned": 5,
+    "hw_open": 1,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 843,
+        "title": "docs: the Quick Start says Chrome opens at https://; it's your default browser at http://",
+        "url": "https://github.com/cuga-project/cuga-agent/issues/843"
+      },
+      {
+        "number": 834,
+        "title": "docs(rosters): add a \"Write your own roster in 10 minutes\" section",
+        "url": "https://github.com/cuga-project/cuga-agent/issues/834"
+      },
+      {
+        "number": 832,
+        "title": "test(rosters): check that every example roster file is well-formed",
+        "url": "https://github.com/cuga-project/cuga-agent/issues/832"
+      }
+    ],
+    "hw_samples": [],
+    "merge": {
+      "repo": "cuga-project/cuga-agent",
+      "merged_sample": 12,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.4,
+      "url_status": "200",
+      "cla_hint": "21:This repository requires a Developer's Certificate of Origin 1.1 signoff on every commit. A DCO provides your assurance to the community that you wrote the code you are contributing or have the rig"
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "msoedov/agentic_security",
+    "meta": {
+      "archived": false,
+      "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-29T17:38:29Z",
+      "stars": 2035,
+      "updated_at": "2026-10-30T07:51:17Z"
+    },
+    "gfi_open": 3,
+    "gfi_unassigned": 3,
+    "hw_open": 3,
+    "hw_unassigned": 3,
+    "gfi_samples": [
+      {
+        "number": 78,
+        "title": "Introduce multi-prompt variable templates for greater flexibility",
+        "url": "https://github.com/msoedov/agentic_security/issues/78"
+      },
+      {
+        "number": 76,
+        "title": "Create a mechanism to blend multiple datasets together",
+        "url": "https://github.com/msoedov/agentic_security/issues/76"
+      },
+      {
+        "number": 75,
+        "title": "Develop an operator functional interface to allow LLMs to orchestrate tests",
+        "url": "https://github.com/msoedov/agentic_security/issues/75"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 78,
+        "title": "Introduce multi-prompt variable templates for greater flexibility",
+        "url": "https://github.com/msoedov/agentic_security/issues/78"
+      },
+      {
+        "number": 76,
+        "title": "Create a mechanism to blend multiple datasets together",
+        "url": "https://github.com/msoedov/agentic_security/issues/76"
+      }
+    ],
+    "merge": {
+      "repo": "msoedov/agentic_security",
+      "merged_sample": 21,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.7,
+      "url_status": "200",
+      "cla_hint": ""
+    },
+    "url_status": 200
+  },
+  {
+    "repo": "editor-code-assistant/eca",
+    "meta": {
+      "archived": false,
+      "description": "Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor",
+      "language": "Clojure",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-29T13:12:00Z",
+      "stars": 1044,
+      "updated_at": "2026-10-29T13:11:46Z"
+    },
+    "gfi_open": 7,
+    "gfi_unassigned": 7,
+    "hw_open": 1,
+    "hw_unassigned": 1,
+    "gfi_samples": [
+      {
+        "number": 211,
+        "title": "Support tools in rewrite",
+        "url": "https://github.com/editor-code-assistant/eca/issues/211"
+      },
+      {
+        "number": 173,
+        "title": "Improve code completion quality",
+        "url": "https://github.com/editor-code-assistant/eca/issues/173"
+      },
+      {
+        "number": 137,
+        "title": "Configuration option to select providers/models allowed by corporate policies.",
+        "url": "https://github.com/editor-code-assistant/eca/issues/137"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 173,
+        "title": "Improve code completion quality",
+        "url": "https://github.com/editor-code-assistant/eca/issues/173"
+      }
+    ],
+    "merge": null,
+    "url_status": 200
+  },
+  {
+    "repo": "nitrocloudofficial/nitrostack",
+    "meta": {
+      "archived": false,
+      "description": "The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native apps.",
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-19T12:56:19Z",
+      "stars": 2558,
+      "updated_at": "2026-10-30T11:16:36Z"
+    },
+    "gfi_open": 12,
+    "gfi_unassigned": 8,
+    "hw_open": 0,
+    "hw_unassigned": 0,
+    "gfi_samples": [
+      {
+        "number": 23,
+        "title": "[A11y] Bundled MCP docs page: dark-mode body gradient + prefers-reduced-motion",
+        "url": "https://github.com/nitrocloudofficial/nitrostack/issues/23"
+      },
+      {
+        "number": 20,
+        "title": "[Chore] Refresh stale header comment in CLI branding.ts",
+        "url": "https://github.com/nitrocloudofficial/nitrostack/issues/20"
+      },
+      {
+        "number": 16,
+        "title": "[CLI] Add Commander --help examples for init, generate, dev",
+        "url": "https://github.com/nitrocloudofficial/nitrostack/issues/16"
+      }
+    ],
+    "hw_samples": [],
+    "merge": null,
+    "url_status": 200
+  },
+  {
+    "repo": "alumnium-hq/alumnium",
+    "meta": {
+      "archived": false,
+      "description": "End-to-End Testing Harness",
+      "language": "TypeScript",
+      "license": "MIT",
+      "pushed_at": "2026-10-26T23:04:41Z",
+      "stars": 1018,
+      "updated_at": "2026-10-27T00:02:44Z"
+    },
+    "gfi_open": 3,
+    "gfi_unassigned": 3,
+    "hw_open": 2,
+    "hw_unassigned": 2,
+    "gfi_samples": [
+      {
+        "number": 209,
+        "title": "Support alerts",
+        "url": "https://github.com/alumnium-hq/alumnium/issues/209"
+      },
+      {
+        "number": 136,
+        "title": "Support screenshot in Area",
+        "url": "https://github.com/alumnium-hq/alumnium/issues/136"
+      },
+      {
+        "number": 110,
+        "title": "Learning API for `check`/`get`/`area`/`find`",
+        "url": "https://github.com/alumnium-hq/alumnium/issues/110"
+      }
+    ],
+    "hw_samples": [
+      {
+        "number": 258,
+        "title": "Support JavaFX",
+        "url": "https://github.com/alumnium-hq/alumnium/issues/258"
+      },
+      {
+        "number": 162,
+        "title": "Ability to interact with HTML canvas element",
+        "url": "https://github.com/alumnium-hq/alumnium/issues/162"
+      }
+    ],
+    "merge": {
+      "repo": "alumnium-hq/alumnium",
+      "merged_sample": 29,
+      "closed_sample": 30,
+      "merge_rate_sample": 0.97,
+      "url_status": "200",
+      "cla_hint": "216:- Ask questions when unclear—clarity benefits everyone."
+    },
+    "url_status": 200
+  }
+]

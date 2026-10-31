@@ -1,0 +1,1 @@
+Use this when the user wants a conversation, decision, or lesson learned saved as a structured Notion page (wiki, FAQ, how-to, decision log, learning entry).

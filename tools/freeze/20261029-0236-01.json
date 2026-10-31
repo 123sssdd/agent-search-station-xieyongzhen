@@ -1,0 +1,13 @@
+{
+ "round": "20261029-0236-01",
+ "frozen_at": "2026-10-29T02:48:10",
+ "note": "eval/verdict confirmed by 质量评估 after 02 review; xhs includes Searcher 02:48 correction",
+ "files": {
+  "rounds/plan-20261029-0236-01.md": "ddefa8a04e42c65bad939eee7295c2a22cbe28870b387eb4669861a2e138dbce",
+  "rounds/search-20261029-0236-01.md": "c32ca80d1a2814035c6e3b2d404c55db0db97ba59dbf3a99fd4c59b2718315b1",
+  "rounds/xhs-20261029-0236-01.md": "33cd118d307da9c45dc3c8288dbc2b320b42424558f7fffb06f0ca77d7dac476",
+  "rounds/eval-20261029-0236-01.md": "be68cc334b369fe66066ca24ed494efce848a07f095c4abefb7ef337e6a86ada",
+  "decisions/round-20261029-0236-01/质量评估-20261029-0245.md": "b9cbafe3c61af6c5785f0a1d6aaff61d22e82f1698357b8572891d32b93666f0",
+  "decisions/round-20261029-0236-01/02-0246.md": "216545e2b082cffc2e0be7d290f3d7ae0a110764819060cece0bad6eb3777d8e"
+ }
+}

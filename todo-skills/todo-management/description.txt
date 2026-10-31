@@ -1,0 +1,1 @@
+Use this when the user asks to add, list, edit, move, complete, or remove todo items in the local SQLite todo list (quick capture or offline backup of Notion todos).

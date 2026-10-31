@@ -1,0 +1,1 @@
+- 优化规划师 08 产出（00:53）：standards/_template.md、keywords/_template.md、platform-thresholds.md、plan-实测记录节.md、capabilities-draft.md｜状态：待 02 复核

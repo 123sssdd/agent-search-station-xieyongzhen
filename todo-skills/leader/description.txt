@@ -1,0 +1,1 @@
+Use this when the user wants a one-line idea turned into a self-contained task brief or goal prompt that an agent (or several in parallel) can run to completion.

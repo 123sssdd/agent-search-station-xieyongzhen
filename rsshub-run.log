@@ -1,0 +1,85 @@
+$ cross-env NODE_ENV=production NODE_OPTIONS='--max-http-header-size=32768' node dist/index.mjs
+[32minfo[39m: 🎉 RSSHub is running on port 1200! Cheers!
+[32minfo[39m: 🔗 Local: 👉 http://localhost:1200
+[32minfo[39m: 🔗 Network: 👉 http://172.30.0.2:1200
+[32minfo[39m: 🔗 Network: 👉 http://[::]:1200
+[32minfo[39m: <-- GET /
+[32minfo[39m: --> GET / [32m200[0m 9ms
+[32minfo[39m: <-- GET /bilibili/ranking/0
+[32minfo[39m: --> GET /bilibili/ranking/0 [32m200[0m 2s
+[32minfo[39m: <-- GET /bilibili/popular/all
+[32minfo[39m: --> GET /bilibili/popular/all [32m200[0m 601ms
+[32minfo[39m: <-- GET /bilibili/user/video/946974
+[33mwarn[39m: [bilibili/video] API request failed, falling back to browser mode: TimeoutError: page.waitForResponse: Timeout 12000ms exceeded while waiting for event "response"
+[32minfo[39m: [bilibili/video] fetching via playwright: https://space.bilibili.com/946974/video
+[31merror[39m: Error in /bilibili/user/video/946974: Error: Bilibili browser mode returned unexpected video list API status 412
+[32minfo[39m: --> GET /bilibili/user/video/946974 [31m503[0m 22s
+[32minfo[39m: <-- GET /bilibili/user/dynamic/946974
+[33mwarn[39m: Request https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/space?offset=&host_mid=946974&platform=web&features=itemOpusStyle,listOnlyfans,opusBigCover,onlyfansVote&dm_img_list=[{"x":6326,"y":-1417,"z":0,"timestamp":29,"type":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2 with error 412 remaining retry attempts: 2
+[31merror[39m: Error in /bilibili/user/dynamic/946974: FetchError: [GET] "https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/space?offset=&host_mid=946974&platform=web&features=itemOpusStyle,listOnlyfans,opusBigCover,onlyfansVote&dm_img_list=[{\"x\":6326,\"y\":-1417,\"z\":0,\"timestamp\":29,\"type\":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2": 412 
+[32minfo[39m: --> GET /bilibili/user/dynamic/946974 [31m503[0m 14s
+[32minfo[39m: <-- GET /zhihu/hot
+[32minfo[39m: --> GET /zhihu/hot [32m200[0m 663ms
+[32minfo[39m: <-- GET /zhihu/people/activities/excited-vczh
+[33mwarn[39m: Request https://www.zhihu.com/api/v3/moments/excited-vczh/activities?limit=5&desktop=true&ws_qiangzhisafe=0 with error 403 remaining retry attempts: 2
+[31merror[39m: Error in /zhihu/people/activities/excited-vczh: FetchError: [GET] "https://www.zhihu.com/api/v3/moments/excited-vczh/activities?limit=5&desktop=true&ws_qiangzhisafe=0": 403 
+[32minfo[39m: --> GET /zhihu/people/activities/excited-vczh [31m503[0m 3s
+[32minfo[39m: <-- GET /zhihu/daily
+[32minfo[39m: --> GET /zhihu/daily [32m200[0m 1s
+[32minfo[39m: <-- GET /bilibili/popular/all
+[32minfo[39m: --> GET /bilibili/popular/all [32m200[0m 12ms
+[32minfo[39m: <-- GET /zhihu/hot
+[32minfo[39m: --> GET /zhihu/hot [32m200[0m 12ms
+[32minfo[39m: <-- GET /zhihu/daily
+[32minfo[39m: --> GET /zhihu/daily [32m200[0m 12ms
+[32minfo[39m: <-- GET /bilibili/user/video/946974
+[32minfo[39m: --> GET /bilibili/user/video/946974 [32m200[0m 5s
+[32minfo[39m: <-- GET /zhihu/people/activities/excited-vczh
+[33mwarn[39m: Request https://www.zhihu.com/api/v3/moments/excited-vczh/activities?limit=5&desktop=true&ws_qiangzhisafe=0 with error 403 remaining retry attempts: 2
+[31merror[39m: Error in /zhihu/people/activities/excited-vczh: FetchError: [GET] "https://www.zhihu.com/api/v3/moments/excited-vczh/activities?limit=5&desktop=true&ws_qiangzhisafe=0": 403 
+[32minfo[39m: --> GET /zhihu/people/activities/excited-vczh [31m503[0m 676ms
+[32minfo[39m: <-- GET /bilibili/ranking/0
+[32minfo[39m: --> GET /bilibili/ranking/0 [32m200[0m 26ms
+[ELIFECYCLE] Command failed with exit code 1.
+node:fs:1590
+  const result = binding.readdir(
+                         ^
+
+Error: ENOENT: no such file or directory, scandir '/workspace/learning-loop/rsshub/dist/routes'
+    at Object.readdirSync (node:fs:1590:26)
+    at u (file:///workspace/learning-loop/rsshub/dist/registry-dev-CIiTYS7u.mjs:1:852)
+    at file:///workspace/learning-loop/rsshub/dist/index.mjs:46:633 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/workspace/learning-loop/rsshub/dist/routes'
+}
+
+Node.js v22.23.4
+[32minfo[39m: 🎉 RSSHub is running on port 1200! Cheers!
+[32minfo[39m: 🔗 Local: 👉 http://localhost:1200
+[32minfo[39m: <-- GET /zhihu/hot
+[32minfo[39m: --> GET /zhihu/hot [32m200[0m 1s
+Failed to create cache directory. Please ensure the user has write access to the target directory (/usr/local/share/corepack/v1). If the user's home directory does not exist, create it first.
+$ cross-env NODE_ENV=production NODE_OPTIONS='--max-http-header-size=32768' node dist/index.mjs
+[32minfo[39m: 🎉 RSSHub is running on port 1200! Cheers!
+[32minfo[39m: 🔗 Local: 👉 http://localhost:1200
+[32minfo[39m: 🔗 Network: 👉 http://172.30.0.2:1200
+[32minfo[39m: 🔗 Network: 👉 http://[::]:1200
+[32minfo[39m: <-- GET /
+[32minfo[39m: --> GET / [32m200[0m 9ms
+[32minfo[39m: <-- GET /zhihu/hot
+[32minfo[39m: --> GET /zhihu/hot [32m200[0m 729ms
+[32minfo[39m: <-- GET /zhihu/hot
+[32minfo[39m: --> GET /zhihu/hot [32m200[0m 613ms
+[32minfo[39m: <-- GET /reddit/subreddit/LocalLLaMA
+[31merror[39m: Error in /reddit/subreddit/LocalLLaMA: NotFoundError: The route does not exist or has been deleted.
+[32minfo[39m: --> GET /reddit/subreddit/LocalLLaMA [33m404[0m 5ms
+[32minfo[39m: <-- GET /zhihu/hot
+[32minfo[39m: --> GET /zhihu/hot [32m200[0m 675ms
+[32minfo[39m: <-- GET /
+[32minfo[39m: --> GET / [32m200[0m 13ms
+[32minfo[39m: <-- GET /
+[32minfo[39m: --> GET / [32m200[0m 17ms
+[32minfo[39m: <-- GET /
+[32minfo[39m: --> GET / [32m200[0m 22ms

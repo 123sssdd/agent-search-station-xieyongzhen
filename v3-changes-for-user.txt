@@ -1,0 +1,29 @@
+1. 开轮催办与代开轮：主 bot 开轮后 15 分钟内如果 rounds/ 下还没有 plan 文件，由另一位（非开轮的）BrainStorm 发 priority 消息催办；催办 2 次仍没有，就由它接手开轮并备注「代开轮」。夜间同样适用。目的是防止跳过 Searcher 和质量评估。影响 BrainStorm 01/02。
+
+2. 意见索引与评审范围：每个 decisions/<主题>/ 目录增加 INDEX.md，逐条记录意见是「采纳 / 未采纳 / 延后」，由拍板方维护；意见文件统一用仓库里的 decision-record 模板（写绝对路径）。发评审请求时注明「只看阻塞」或「全面评审」，终审默认全面评审（2026-10-28 19:28 用户修订）。影响全部 bot。
+
+3. 开轮前健康检查：每轮开搜前跑 firecrawl --status，并对 SearXNG、RSSHub 各请求一次，结果写进 plan 文件头部。小红书只在本轮计划用到时做一次真实搜索检查，每天最多 2 次，夜间只检查不翻评论，避免增加风控风险。登录、额度、服务状态一律以真实调用为准再汇报。影响 Searcher、当值主 bot。
+
+4. 证据文件统一模板：plan、search、eval 三个文件按仓库 templates/evidence/ 模板写；质量评估先检查 search 文件是否存在，没有就拒评，并留一个只有一行的 eval 文件写明「拒评：缺 search 文件」，方便追溯。影响 Searcher、质量评估。
+
+5. 先落盘、只停自己：任何评审、评估、方案先写成文件，再发「路径 + 摘要」；取消子任务时只停自己的，不用会连带停掉其他 bot 的批量取消。今天就出现过批量取消误停 01、02、Memory、质量评估回合的情况。影响全部 bot。
+
+6. 例会日报和档案写进指令：17:00 定稿的 9 项日报（meetings/<日期>/<bot>.md，每项不超过 3 行，全篇不超过 30 行）、常驻档案 profiles/<bot>.md（不写 token 和凭据）、路线图 roadmap.md、01 的会议汇总，正式写进各 bot 指令。影响全部 bot。
+
+7. 汇报改三栏：汇报分工从「评审：X；执行：Z」改为固定三栏「评审 / 执行 / 待定」，每栏附产出路径；旧写法在指令里全部替换，不再两种并存。影响全部 bot，主要是 01/02。
+
+8. 交接文件冻结：Memory 写 manifest 前记录 search 和 eval 文件的 hash，推送前再比一次，变了就要求重新交接；Searcher 交接后不再改 search 文件；推送批准必须来自你本人原话。影响 Memory、Searcher。
+
+9. 链接真实性校验：Memory 写 manifest 前，对每条链接检查格式，并实际请求确认能打开（看状态码和页面标题）；不通过的退回 Searcher。用来拦住编造或失效的链接，今天看板里有两条链接末尾混进了中文说明。影响 Memory。
+
+10. Notion 写入防错：批量建页前先读取库结构、预检下拉选项；任何字段结构变更先记 Decisions 再动手；写完重新读取页面确认。影响 Memory、Todos。
+
+11. 归档消息必须唤醒：发给 Memory 的归档、同步请求（包括日报和档案）一律用 priority:true，并在规则里写明这是「仅通知用 false」的例外。今天有一条 priority=false 的消息没唤醒 Memory，导致漏记。影响全部 bot。
+
+12. 变更记录由 Memory 负责：仓库 CHANGELOG.md 只由 Memory 写；以后每次指令修订追加一条（日期、版本、改了什么、来源决策文件、影响角色），在你确认后随推送上传。影响 Memory。
+
+13. Todos 状态对齐：本地 todo-management 只有 4 种状态，Notion 有 6 种；由 Todos 起草状态映射表和「待同步」补写流程，起草前继续把 todo_id 写进本地条目文字，以 Notion 为主。影响 Todos。
+
+14. 搜索与评分口径补齐：Firecrawl 按搜索方案只设参考上限、超出只记录不阻断，现在补上具体数字——由 Searcher 按 2 轮实测给出 A/B/C 三档参考值，你看一眼即可；质量评估引用旧 10 分制结果时一律除以 2 换算成 5 分制并注明。影响 Searcher、质量评估。
+
+15. 已拍板（2026-10-28 19:28，见 decisions/user-decisions-20261028/01-final-1928.md）：Todos→Notion 原生 status；仓库按 schemas→配置→适配器重构并公开；许可证开源可用不可商用（PolyForm Noncommercial）；Tavily/B站字幕暂缓；RSSHub 保持全网卡；终审默认全面评审。仍待你确认：v3 整体是否生效推送；公开树里实例 agent id 默认换成占位符（可反对）。Playwright 为例会自主。

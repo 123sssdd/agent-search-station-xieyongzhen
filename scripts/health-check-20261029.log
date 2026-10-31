@@ -1,0 +1,11 @@
+== health-check 2026-10-29 00:54:59 CST ==
+[OK]   firecrawl:  🔥 firecrawl cli v1.23.3 Concurrency: 0/2 jobs (parallel scrape limit) Credits: 10,989 / 1,000 (1099% left this cycle) .firecrawl: not found - no local cache .gitignore: missing - add .firecrawl/ to ignore cache 
+[OK]   searxng: HTTP 200, results=46
+[FAIL] rsshub: /zhihu/hot HTTP 000 (000=未监听/超时)
+== summary: firecrawl=OK searxng=OK rsshub=FAIL => FAILED ==
+exit=1
+== health-check 2026-10-29 01:00:08 CST ==
+[OK]   firecrawl:  🔥 firecrawl cli v1.23.3 Concurrency: 0/2 jobs (parallel scrape limit) Credits: 10,977 / 1,000 (1098% left this cycle) .firecrawl: not found - no local cache .gitignore: present - .firecrawl ignored: no 
+[OK]   searxng: HTTP 200, results=54
+[OK]   rsshub: /zhihu/hot HTTP 200, items=30
+== summary: firecrawl=OK searxng=OK rsshub=OK => ALL OK ==

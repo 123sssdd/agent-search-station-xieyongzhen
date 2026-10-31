@@ -1,0 +1,1 @@
+Use this when a multi-step task (research or work needing 5+ tool calls) should keep its plan, findings, and progress in task_plan.md / findings.md / progress.md on disk so it can be resumed.

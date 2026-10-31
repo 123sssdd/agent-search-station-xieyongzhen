@@ -1,0 +1,1 @@
+Use this when the user wants a spec, PRD, or plan page in Notion turned into concrete implementation tasks in a Notion task database with acceptance criteria and progress tracking.

@@ -1,0 +1,1316 @@
+{
+  "repos": [
+    {
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "fullName": "MakazhanAlpamys/Soup",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 9811,
+      "updatedAt": "2026-10-30T11:37:34Z",
+      "url": "https://github.com/MakazhanAlpamys/Soup"
+    },
+    {
+      "description": "the LLM vulnerability scanner",
+      "fullName": "NVIDIA/garak",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 9782,
+      "updatedAt": "2026-10-30T11:15:19Z",
+      "url": "https://github.com/NVIDIA/garak"
+    },
+    {
+      "description": "Review-first terminal diff viewer for agentic coders",
+      "fullName": "modem-dev/hunk",
+      "language": "TypeScript",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 9722,
+      "updatedAt": "2026-10-30T10:12:38Z",
+      "url": "https://github.com/modem-dev/hunk"
+    },
+    {
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "fullName": "pacifio/atlas",
+      "language": "TypeScript",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 9561,
+      "updatedAt": "2026-10-29T18:35:14Z",
+      "url": "https://github.com/pacifio/atlas"
+    },
+    {
+      "description": "an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions",
+      "fullName": "HarnessMD/munder-difflin",
+      "language": "TypeScript",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 9200,
+      "updatedAt": "2026-10-30T11:34:50Z",
+      "url": "https://github.com/HarnessMD/munder-difflin"
+    },
+    {
+      "description": "",
+      "fullName": "anthropics/claude-agent-sdk-python",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 8392,
+      "updatedAt": "2026-10-30T07:57:46Z",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python"
+    },
+    {
+      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models",
+      "fullName": "AI4Finance-Foundation/FinRobot",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 8336,
+      "updatedAt": "2026-10-30T08:33:25Z",
+      "url": "https://github.com/AI4Finance-Foundation/FinRobot"
+    },
+    {
+      "description": "Semantic cache for LLMs. Fully integrated with LangChain and llama_index. ",
+      "fullName": "zilliztech/GPTCache",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 8218,
+      "updatedAt": "2026-10-30T10:34:34Z",
+      "url": "https://github.com/zilliztech/GPTCache"
+    },
+    {
+      "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+      "fullName": "2FastLabs/agent-squad",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 7796,
+      "updatedAt": "2026-10-29T13:31:01Z",
+      "url": "https://github.com/2FastLabs/agent-squad"
+    },
+    {
+      "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+      "fullName": "traceloop/openllmetry",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 7512,
+      "updatedAt": "2026-10-30T08:18:22Z",
+      "url": "https://github.com/traceloop/openllmetry"
+    },
+    {
+      "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "fullName": "kyegomez/swarms",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 7331,
+      "updatedAt": "2026-10-30T06:35:56Z",
+      "url": "https://github.com/kyegomez/swarms"
+    },
+    {
+      "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.",
+      "fullName": "katanemo/plano",
+      "language": "Rust",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 7102,
+      "updatedAt": "2026-10-30T06:27:00Z",
+      "url": "https://github.com/katanemo/plano"
+    },
+    {
+      "description": "Play ChatGPT and other LLM with Xiaomi AI Speaker",
+      "fullName": "yihong0618/xiaogpt",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 6972,
+      "updatedAt": "2026-10-30T11:36:21Z",
+      "url": "https://github.com/yihong0618/xiaogpt"
+    },
+    {
+      "description": "StackStorm (aka \"IFTTT for Ops\") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html",
+      "fullName": "StackStorm/st2",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 6551,
+      "updatedAt": "2026-10-29T12:19:12Z",
+      "url": "https://github.com/StackStorm/st2"
+    },
+    {
+      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "fullName": "apache/maka",
+      "language": "TypeScript",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 5930,
+      "updatedAt": "2026-10-30T09:23:20Z",
+      "url": "https://github.com/apache/maka"
+    },
+    {
+      "description": "Context Graph for AI Native SDLC",
+      "fullName": "potpie-ai/potpie",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 5780,
+      "updatedAt": "2026-10-30T11:01:46Z",
+      "url": "https://github.com/potpie-ai/potpie"
+    },
+    {
+      "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK.",
+      "fullName": "maziyarpanahi/openmed",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 5726,
+      "updatedAt": "2026-10-30T10:34:02Z",
+      "url": "https://github.com/maziyarpanahi/openmed"
+    },
+    {
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "fullName": "Blaizzy/mlx-vlm",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 5696,
+      "updatedAt": "2026-10-30T07:29:08Z",
+      "url": "https://github.com/Blaizzy/mlx-vlm"
+    },
+    {
+      "description": "Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)",
+      "fullName": "permitio/opal",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 5526,
+      "updatedAt": "2026-10-28T18:18:15Z",
+      "url": "https://github.com/permitio/opal"
+    },
+    {
+      "description": "\ud83c\udfdd\ufe0f OASIS: Open Agent Social Interaction Simulations with One Million Agents. ",
+      "fullName": "camel-ai/oasis",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 5367,
+      "updatedAt": "2026-10-30T09:40:58Z",
+      "url": "https://github.com/camel-ai/oasis"
+    },
+    {
+      "description": "Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
+      "fullName": "TabularisDB/tabularis",
+      "language": "TypeScript",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 5338,
+      "updatedAt": "2026-10-30T11:28:35Z",
+      "url": "https://github.com/TabularisDB/tabularis"
+    },
+    {
+      "description": "A Next-Generation Training Engine Built for Ultra-Large MoE Models",
+      "fullName": "InternLM/xtuner",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 5220,
+      "updatedAt": "2026-10-29T10:46:22Z",
+      "url": "https://github.com/InternLM/xtuner"
+    },
+    {
+      "description": "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.",
+      "fullName": "aipotheosis-labs/aci",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 4929,
+      "updatedAt": "2026-10-30T06:30:26Z",
+      "url": "https://github.com/aipotheosis-labs/aci"
+    },
+    {
+      "description": "\ud83d\udd2c Harness Vibe Research with Self-evolving AI Scientists",
+      "fullName": "EvoScientist/EvoScientist",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 4927,
+      "updatedAt": "2026-10-30T11:11:22Z",
+      "url": "https://github.com/EvoScientist/EvoScientist"
+    },
+    {
+      "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.",
+      "fullName": "IBM/mcp-context-forge",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 4729,
+      "updatedAt": "2026-10-30T11:37:29Z",
+      "url": "https://github.com/IBM/mcp-context-forge"
+    },
+    {
+      "description": "The open-source visual AI programming environment and TypeScript library",
+      "fullName": "Ironclad/rivet",
+      "language": "TypeScript",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 4714,
+      "updatedAt": "2026-10-30T02:36:56Z",
+      "url": "https://github.com/Ironclad/rivet"
+    },
+    {
+      "description": "Share and discover coding agent resources across your team. Self-hosted, Apache 2.0, works with Claude Code, Kiro, Cursor, Codex, Pi and more.",
+      "fullName": "AgenticResourceRegistry/AgenticResourceRegistry",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 4534,
+      "updatedAt": "2026-10-30T00:43:53Z",
+      "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry"
+    },
+    {
+      "description": "AI observability platform for production LLM and agent systems.",
+      "fullName": "pydantic/logfire",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 4526,
+      "updatedAt": "2026-10-30T10:49:05Z",
+      "url": "https://github.com/pydantic/logfire"
+    },
+    {
+      "description": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.",
+      "fullName": "CodeGraphContext/CodeGraphContext",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 4366,
+      "updatedAt": "2026-10-29T20:52:54Z",
+      "url": "https://github.com/CodeGraphContext/CodeGraphContext"
+    },
+    {
+      "description": "Optimizing inference proxy for LLMs",
+      "fullName": "algorithmicsuperintelligence/optillm",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 4334,
+      "updatedAt": "2026-10-30T03:59:10Z",
+      "url": "https://github.com/algorithmicsuperintelligence/optillm"
+    },
+    {
+      "description": "A list of AI agents and robots to block.",
+      "fullName": "ai-robots-txt/ai.robots.txt",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 4234,
+      "updatedAt": "2026-10-30T10:34:56Z",
+      "url": "https://github.com/ai-robots-txt/ai.robots.txt"
+    },
+    {
+      "description": "State-of-the-art LLM compression, built for production inference with vLLM",
+      "fullName": "vllm-project/llm-compressor",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 3930,
+      "updatedAt": "2026-10-30T07:18:02Z",
+      "url": "https://github.com/vllm-project/llm-compressor"
+    },
+    {
+      "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 40+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
+      "fullName": "pipeshub-ai/pipeshub-ai",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 3896,
+      "updatedAt": "2026-10-30T11:39:13Z",
+      "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+    },
+    {
+      "description": "Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
+      "fullName": "twinnydotdev/twinny",
+      "language": "TypeScript",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 3686,
+      "updatedAt": "2026-10-30T10:47:58Z",
+      "url": "https://github.com/twinnydotdev/twinny"
+    },
+    {
+      "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+      "fullName": "truera/trulens",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 3621,
+      "updatedAt": "2026-10-30T09:06:03Z",
+      "url": "https://github.com/truera/trulens"
+    },
+    {
+      "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+      "fullName": "lmnr-ai/lmnr",
+      "language": "TypeScript",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 3463,
+      "updatedAt": "2026-10-30T08:39:10Z",
+      "url": "https://github.com/lmnr-ai/lmnr"
+    },
+    {
+      "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool",
+      "fullName": "taylorwilsdon/google_workspace_mcp",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 3441,
+      "updatedAt": "2026-10-30T11:31:48Z",
+      "url": "https://github.com/taylorwilsdon/google_workspace_mcp"
+    },
+    {
+      "description": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
+      "fullName": "containers/ramalama",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 3096,
+      "updatedAt": "2026-10-29T14:03:55Z",
+      "url": "https://github.com/containers/ramalama"
+    },
+    {
+      "description": "Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.",
+      "fullName": "Vexa-ai/vexa",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2932,
+      "updatedAt": "2026-10-30T11:08:19Z",
+      "url": "https://github.com/Vexa-ai/vexa"
+    },
+    {
+      "description": "Formal verification for AI: a Lean 4 + Dafny proof checker that catches fake AI proofs (reward hacking), and verified recursive self-improvement (RSI) for coding agents. AI for math, physics and software engineering.",
+      "fullName": "sahibzada-allahyar/Formal-Verification-RSI",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 2864,
+      "updatedAt": "2026-10-30T04:26:34Z",
+      "url": "https://github.com/sahibzada-allahyar/Formal-Verification-RSI"
+    },
+    {
+      "description": "The Governance Platform for Agents, Knowledge, and Context",
+      "fullName": "trustgraph-ai/trustgraph",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2852,
+      "updatedAt": "2026-10-30T06:59:59Z",
+      "url": "https://github.com/trustgraph-ai/trustgraph"
+    },
+    {
+      "description": "The micro-VM for AI agents \u2014 light enough to embed on your laptop, elastic enough to power an agentic cloud.",
+      "fullName": "boxlite-ai/boxlite",
+      "language": "TypeScript",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2644,
+      "updatedAt": "2026-10-30T10:17:11Z",
+      "url": "https://github.com/boxlite-ai/boxlite"
+    },
+    {
+      "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+      "fullName": "apache/hamilton",
+      "language": "Jupyter Notebook",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2622,
+      "updatedAt": "2026-10-29T21:54:25Z",
+      "url": "https://github.com/apache/hamilton"
+    },
+    {
+      "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.",
+      "fullName": "apache/burr",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2586,
+      "updatedAt": "2026-10-28T18:22:36Z",
+      "url": "https://github.com/apache/burr"
+    },
+    {
+      "description": "Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends",
+      "fullName": "huggingface/lighteval",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 2573,
+      "updatedAt": "2026-10-30T10:51:22Z",
+      "url": "https://github.com/huggingface/lighteval"
+    },
+    {
+      "description": "The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native apps.",
+      "fullName": "nitrocloudofficial/nitrostack",
+      "language": "TypeScript",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2558,
+      "updatedAt": "2026-10-30T11:16:36Z",
+      "url": "https://github.com/nitrocloudofficial/nitrostack"
+    },
+    {
+      "description": "SkyRL: A Modular Full-stack RL Library for LLMs",
+      "fullName": "NovaSky-AI/SkyRL",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2476,
+      "updatedAt": "2026-10-30T08:49:04Z",
+      "url": "https://github.com/NovaSky-AI/SkyRL"
+    },
+    {
+      "description": "SDG is a specialized framework designed to generate high-quality structured tabular data.",
+      "fullName": "hitsz-ids/synthetic-data-generator",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2441,
+      "updatedAt": "2026-10-20T15:37:31Z",
+      "url": "https://github.com/hitsz-ids/synthetic-data-generator"
+    },
+    {
+      "description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+      "fullName": "sierra-research/tau2-bench",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 2360,
+      "updatedAt": "2026-10-30T09:20:17Z",
+      "url": "https://github.com/sierra-research/tau2-bench"
+    },
+    {
+      "description": "\ud83c\udfd5\ufe0f Reproducible development environment for humans and agents",
+      "fullName": "tensorchord/envd",
+      "language": "Go",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2241,
+      "updatedAt": "2026-10-28T08:53:13Z",
+      "url": "https://github.com/tensorchord/envd"
+    },
+    {
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+      "fullName": "future-agi/future-agi",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2227,
+      "updatedAt": "2026-10-30T05:29:04Z",
+      "url": "https://github.com/future-agi/future-agi"
+    },
+    {
+      "description": "CLI task management & automation tool",
+      "fullName": "pydoit/doit",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 2095,
+      "updatedAt": "2026-10-23T09:45:30Z",
+      "url": "https://github.com/pydoit/doit"
+    },
+    {
+      "description": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+      "fullName": "Zoo-Code-Org/Zoo-Code",
+      "language": "TypeScript",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2067,
+      "updatedAt": "2026-10-30T10:37:04Z",
+      "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
+    },
+    {
+      "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit \ud83e\uddea",
+      "fullName": "msoedov/agentic_security",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2035,
+      "updatedAt": "2026-10-30T07:51:17Z",
+      "url": "https://github.com/msoedov/agentic_security"
+    },
+    {
+      "description": "Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond",
+      "fullName": "ovg-project/kvcached",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 2016,
+      "updatedAt": "2026-10-30T06:35:10Z",
+      "url": "https://github.com/ovg-project/kvcached"
+    },
+    {
+      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
+      "fullName": "zzet/gortex",
+      "language": "Go",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1946,
+      "updatedAt": "2026-10-30T11:37:19Z",
+      "url": "https://github.com/zzet/gortex"
+    },
+    {
+      "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
+      "fullName": "korotovsky/slack-mcp-server",
+      "language": "Go",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1880,
+      "updatedAt": "2026-10-29T19:22:12Z",
+      "url": "https://github.com/korotovsky/slack-mcp-server"
+    },
+    {
+      "description": "Scalable data pre processing and curation toolkit for LLMs",
+      "fullName": "NVIDIA-NeMo/Curator",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1843,
+      "updatedAt": "2026-10-30T11:34:50Z",
+      "url": "https://github.com/NVIDIA-NeMo/Curator"
+    },
+    {
+      "description": "Team memory for engineers and their AI agents. Lives in your repo. Shared through Git.",
+      "fullName": "mex-memory/mex",
+      "language": "TypeScript",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1781,
+      "updatedAt": "2026-10-29T12:24:17Z",
+      "url": "https://github.com/mex-memory/mex"
+    },
+    {
+      "description": "Synthetic data curation for post-training and structured data extraction",
+      "fullName": "bespokelabsai/curator",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1758,
+      "updatedAt": "2026-10-30T11:20:52Z",
+      "url": "https://github.com/bespokelabsai/curator"
+    },
+    {
+      "description": ":metal: TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "fullName": "tenstorrent/tt-metal",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1732,
+      "updatedAt": "2026-10-30T11:41:02Z",
+      "url": "https://github.com/tenstorrent/tt-metal"
+    },
+    {
+      "description": "Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering standards across AI coding agents and harnesses.",
+      "fullName": "spec-kitty/spec-kitty",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1710,
+      "updatedAt": "2026-10-30T10:00:28Z",
+      "url": "https://github.com/spec-kitty/spec-kitty"
+    },
+    {
+      "description": "Build AI agents for your PC",
+      "fullName": "amd/gaia",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1600,
+      "updatedAt": "2026-10-30T09:44:08Z",
+      "url": "https://github.com/amd/gaia"
+    },
+    {
+      "description": "The open-source governance layer for AI agents: write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run",
+      "fullName": "sipyourdrink-ltd/bernstein",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1344,
+      "updatedAt": "2026-10-30T10:14:49Z",
+      "url": "https://github.com/sipyourdrink-ltd/bernstein"
+    },
+    {
+      "description": "Coding agent memory for Claude Code, Codex, Cursor and 40 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.",
+      "fullName": "vshulcz/deja-vu",
+      "language": "Go",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1339,
+      "updatedAt": "2026-10-30T08:18:01Z",
+      "url": "https://github.com/vshulcz/deja-vu"
+    },
+    {
+      "description": "A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes.",
+      "fullName": "s2b-dev/smart-second-brain",
+      "language": "TypeScript",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1331,
+      "updatedAt": "2026-10-30T11:40:06Z",
+      "url": "https://github.com/s2b-dev/smart-second-brain"
+    },
+    {
+      "description": "Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).",
+      "fullName": "KusionStack/kusion",
+      "language": "Go",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1325,
+      "updatedAt": "2026-10-30T11:35:04Z",
+      "url": "https://github.com/KusionStack/kusion"
+    },
+    {
+      "description": "OpenTelemetry Instrumentation for AI Observability",
+      "fullName": "Arize-ai/openinference",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1295,
+      "updatedAt": "2026-10-30T00:02:23Z",
+      "url": "https://github.com/Arize-ai/openinference"
+    },
+    {
+      "description": "Open source alternative to LangGraph Platform (now LangSmith Deployments) - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure.",
+      "fullName": "aegra/aegra",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1292,
+      "updatedAt": "2026-10-30T08:18:56Z",
+      "url": "https://github.com/aegra/aegra"
+    },
+    {
+      "description": "Run your dbt (Core, Fusion, OSS) projects as Apache Airflow DAGs and Task Groups with a few lines of code",
+      "fullName": "astronomer/astronomer-cosmos",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1282,
+      "updatedAt": "2026-10-30T09:55:38Z",
+      "url": "https://github.com/astronomer/astronomer-cosmos"
+    },
+    {
+      "description": "Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen",
+      "fullName": "VirtusLab/git-machete",
+      "language": "Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1149,
+      "updatedAt": "2026-10-30T04:26:09Z",
+      "url": "https://github.com/VirtusLab/git-machete"
+    },
+    {
+      "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, & WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, & an interactive web UI/MacOS/Windows native app.",
+      "fullName": "hoangsonww/Claude-Code-Agent-Monitor",
+      "language": "TypeScript",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1133,
+      "updatedAt": "2026-10-30T11:18:33Z",
+      "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+    },
+    {
+      "description": "Query, provision and operate Cloud, SaaS, API and Model Context Protocol (MCP) resources through a unified SQL-based framework for humans and AI agents.",
+      "fullName": "stackql/stackql",
+      "language": "Go",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1074,
+      "updatedAt": "2026-10-30T11:44:30Z",
+      "url": "https://github.com/stackql/stackql"
+    },
+    {
+      "description": "\ud83d\ude80 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support",
+      "fullName": "NVIDIA-NeMo/Automodel",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1064,
+      "updatedAt": "2026-10-30T11:40:17Z",
+      "url": "https://github.com/NVIDIA-NeMo/Automodel"
+    },
+    {
+      "description": "CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.",
+      "fullName": "cuga-project/cuga-agent",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1056,
+      "updatedAt": "2026-10-29T20:29:50Z",
+      "url": "https://github.com/cuga-project/cuga-agent"
+    },
+    {
+      "description": "Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.",
+      "fullName": "PhonePe/mantis",
+      "language": "Python",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1041,
+      "updatedAt": "2026-10-24T18:31:46Z",
+      "url": "https://github.com/PhonePe/mantis"
+    },
+    {
+      "description": "OpenLoomi is an open-source AI coworker. It connects your work tools, understands what you\u2019re working on, and tells you what needs your attention, why it matters, and what to do next. It\u2019s your open-source Attention Agent.",
+      "fullName": "melandlabs/openloomi",
+      "language": "TypeScript",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "stargazersCount": 1037,
+      "updatedAt": "2026-10-27T14:17:58Z",
+      "url": "https://github.com/melandlabs/openloomi"
+    },
+    {
+      "description": "End-to-End Testing Harness",
+      "fullName": "alumnium-hq/alumnium",
+      "language": "TypeScript",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "stargazersCount": 1018,
+      "updatedAt": "2026-10-27T00:02:44Z",
+      "url": "https://github.com/alumnium-hq/alumnium"
+    }
+  ],
+  "sources": {
+    "pipeshub-ai/pipeshub-ai": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json",
+      "gfi-mcp-py.json",
+      "gfi-rag-py.json"
+    ],
+    "IBM/mcp-context-forge": [
+      "gfi-agent-py.json",
+      "gfi-mcp-py.json",
+      "gfi-tool_calling-all.json"
+    ],
+    "Vexa-ai/vexa": [
+      "gfi-agent-py.json",
+      "gfi-mcp-py.json",
+      "gfi-mcp_server-all.json"
+    ],
+    "pydantic/logfire": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json"
+    ],
+    "NVIDIA-NeMo/Automodel": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json"
+    ],
+    "amd/gaia": [
+      "gfi-agent-py.json"
+    ],
+    "sipyourdrink-ltd/bernstein": [
+      "gfi-agent-py.json"
+    ],
+    "spec-kitty/spec-kitty": [
+      "gfi-agent-py.json",
+      "gfi-harness-py.json",
+      "gfi-workflow-py.json"
+    ],
+    "sierra-research/tau2-bench": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json"
+    ],
+    "future-agi/future-agi": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json",
+      "gfi-llmops-all.json",
+      "gfi-llmops-py.json"
+    ],
+    "ai-robots-txt/ai.robots.txt": [
+      "gfi-agent-py.json"
+    ],
+    "anthropics/claude-agent-sdk-python": [
+      "gfi-agent-py.json"
+    ],
+    "AgenticResourceRegistry/AgenticResourceRegistry": [
+      "gfi-agent-py.json",
+      "gfi-mcp-py.json"
+    ],
+    "kyegomez/swarms": [
+      "gfi-agent-py.json",
+      "gfi-agent_framework-all.json"
+    ],
+    "cuga-project/cuga-agent": [
+      "gfi-agent-py.json",
+      "gfi-harness-py.json",
+      "gfi-llm-py.json",
+      "gfi-mcp-py.json",
+      "gfi-rag-py.json"
+    ],
+    "msoedov/agentic_security": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json"
+    ],
+    "truera/trulens": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json",
+      "gfi-llmops-all.json",
+      "gfi-llmops-py.json"
+    ],
+    "aegra/aegra": [
+      "gfi-agent-py.json"
+    ],
+    "InternLM/xtuner": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json"
+    ],
+    "trustgraph-ai/trustgraph": [
+      "gfi-agent-py.json",
+      "gfi-rag-py.json"
+    ],
+    "permitio/opal": [
+      "gfi-agent-py.json"
+    ],
+    "apache/burr": [
+      "gfi-agent-py.json",
+      "gfi-llmops-all.json",
+      "gfi-llmops-py.json"
+    ],
+    "camel-ai/oasis": [
+      "gfi-agent-py.json"
+    ],
+    "AI4Finance-Foundation/FinRobot": [
+      "gfi-agent-py.json"
+    ],
+    "aipotheosis-labs/aci": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json",
+      "gfi-mcp-py.json",
+      "gfi-mcp_server-all.json",
+      "gfi-tool_calling-all.json"
+    ],
+    "sahibzada-allahyar/Formal-Verification-RSI": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json"
+    ],
+    "hitsz-ids/synthetic-data-generator": [
+      "gfi-agent-py.json",
+      "gfi-agent_framework-all.json",
+      "gfi-llm-py.json"
+    ],
+    "algorithmicsuperintelligence/optillm": [
+      "gfi-agent-py.json",
+      "gfi-llm-py.json"
+    ],
+    "2FastLabs/agent-squad": [
+      "gfi-agent-py.json",
+      "gfi-agent_framework-all.json"
+    ],
+    "boxlite-ai/boxlite": [
+      "gfi-agent-ts.json"
+    ],
+    "apache/maka": [
+      "gfi-agent-ts.json",
+      "gfi-llm-ts.json"
+    ],
+    "HarnessMD/munder-difflin": [
+      "gfi-agent-ts.json",
+      "gfi-agent_memory-all.json",
+      "gfi-harness-ts.json"
+    ],
+    "Zoo-Code-Org/Zoo-Code": [
+      "gfi-agent-ts.json"
+    ],
+    "lmnr-ai/lmnr": [
+      "gfi-agent-ts.json",
+      "gfi-llmops-all.json",
+      "gfi-llmops-ts.json"
+    ],
+    "modem-dev/hunk": [
+      "gfi-agent-ts.json"
+    ],
+    "pacifio/atlas": [
+      "gfi-agent-ts.json",
+      "gfi-mcp-ts.json"
+    ],
+    "hoangsonww/Claude-Code-Agent-Monitor": [
+      "gfi-agent-ts.json"
+    ],
+    "mex-memory/mex": [
+      "gfi-agent-ts.json",
+      "gfi-agent_memory-all.json",
+      "gfi-llm-ts.json"
+    ],
+    "twinnydotdev/twinny": [
+      "gfi-agent-ts.json",
+      "gfi-llm-ts.json"
+    ],
+    "melandlabs/openloomi": [
+      "gfi-agent-ts.json",
+      "gfi-agent_memory-all.json",
+      "gfi-llm-ts.json",
+      "gfi-mcp-ts.json"
+    ],
+    "stackql/stackql": [
+      "gfi-agent_framework-all.json"
+    ],
+    "vshulcz/deja-vu": [
+      "gfi-agent_memory-all.json"
+    ],
+    "EvoScientist/EvoScientist": [
+      "gfi-harness-py.json"
+    ],
+    "alumnium-hq/alumnium": [
+      "gfi-harness-ts.json",
+      "gfi-llm-ts.json"
+    ],
+    "tenstorrent/tt-metal": [
+      "gfi-llm-py.json"
+    ],
+    "MakazhanAlpamys/Soup": [
+      "gfi-llm-py.json",
+      "gfi-llmops-all.json",
+      "gfi-llmops-py.json"
+    ],
+    "NVIDIA-NeMo/Curator": [
+      "gfi-llm-py.json"
+    ],
+    "maziyarpanahi/openmed": [
+      "gfi-llm-py.json"
+    ],
+    "NovaSky-AI/SkyRL": [
+      "gfi-llm-py.json"
+    ],
+    "Blaizzy/mlx-vlm": [
+      "gfi-llm-py.json"
+    ],
+    "ovg-project/kvcached": [
+      "gfi-llm-py.json"
+    ],
+    "vllm-project/llm-compressor": [
+      "gfi-llm-py.json"
+    ],
+    "huggingface/lighteval": [
+      "gfi-llm-py.json"
+    ],
+    "taylorwilsdon/google_workspace_mcp": [
+      "gfi-llm-py.json",
+      "gfi-mcp-py.json",
+      "gfi-mcp_server-all.json"
+    ],
+    "bespokelabsai/curator": [
+      "gfi-llm-py.json"
+    ],
+    "NVIDIA/garak": [
+      "gfi-llm-py.json"
+    ],
+    "containers/ramalama": [
+      "gfi-llm-py.json"
+    ],
+    "traceloop/openllmetry": [
+      "gfi-llm-py.json",
+      "gfi-llmops-all.json",
+      "gfi-llmops-py.json"
+    ],
+    "yihong0618/xiaogpt": [
+      "gfi-llm-py.json"
+    ],
+    "zilliztech/GPTCache": [
+      "gfi-llm-py.json"
+    ],
+    "Ironclad/rivet": [
+      "gfi-llm-ts.json"
+    ],
+    "KusionStack/kusion": [
+      "gfi-llmops-all.json"
+    ],
+    "Arize-ai/openinference": [
+      "gfi-llmops-all.json",
+      "gfi-llmops-py.json",
+      "gfi-mcp-py.json"
+    ],
+    "apache/hamilton": [
+      "gfi-llmops-all.json"
+    ],
+    "katanemo/plano": [
+      "gfi-llmops-all.json"
+    ],
+    "tensorchord/envd": [
+      "gfi-llmops-all.json"
+    ],
+    "CodeGraphContext/CodeGraphContext": [
+      "gfi-mcp-py.json",
+      "gfi-mcp_server-all.json"
+    ],
+    "TabularisDB/tabularis": [
+      "gfi-mcp-ts.json",
+      "gfi-mcp_server-all.json"
+    ],
+    "nitrocloudofficial/nitrostack": [
+      "gfi-mcp-ts.json",
+      "gfi-mcp_server-all.json"
+    ],
+    "zzet/gortex": [
+      "gfi-mcp_server-all.json"
+    ],
+    "korotovsky/slack-mcp-server": [
+      "gfi-mcp_server-all.json"
+    ],
+    "potpie-ai/potpie": [
+      "gfi-rag-py.json"
+    ],
+    "s2b-dev/smart-second-brain": [
+      "gfi-rag-ts.json"
+    ],
+    "astronomer/astronomer-cosmos": [
+      "gfi-workflow-py.json"
+    ],
+    "StackStorm/st2": [
+      "gfi-workflow-py.json"
+    ],
+    "VirtusLab/git-machete": [
+      "gfi-workflow-py.json"
+    ],
+    "pydoit/doit": [
+      "gfi-workflow-py.json"
+    ],
+    "PhonePe/mantis": [
+      "gfi-workflow-py.json"
+    ]
+  }
+}

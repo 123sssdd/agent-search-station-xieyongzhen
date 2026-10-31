@@ -1,0 +1,65 @@
+reddit scraper	JosephLai241/URS	1040	2026-10-28	mit	Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line
+reddit scraper	ksanjeev284/reddit-universal-scraper	610	2026-10-27	mit	Universal Reddit Scraper - Works on any Subreddit or User
+reddit scraper	Coding-Doctor-Omar/reddrix	128	2026-10-28	mit	Reddrix is an open-source, blazing-fast Reddit Scraper for Python (No Login or A
+reddit scraper	pakagronglb/reddit-scraper	47	2026-09-26	mit	A powerful Reddit data scraping tool with a user-friendly Streamlit interface. E
+reddit scraper	CalvinRossSmith/Youddit-Public	40	2026-10-19	mit	Reddit scraper and video compiler
+reddit scraper	pratikpv/reddit_scraper_and_sentiment_analyzer	31	2026-04-28		Download reddit posts based on keywords and perform sentiment analysis on the po
+reddit scraper	zarif98/Reddit-Scraper-with-Push-Notifications	27	2026-10-10		Self-hosted Reddit keyword monitor with a web UI and push notifications to Disco
+reddit scraper	glowfi/reddit-scraper	26	2026-08-30	gpl-3.0	Modular Reddit scraping pipeline that collects subreddit, post, and user data in
+reddit crawler	dannyvai/reddit_crawlers	385	2026-10-26	bsd-2-clause	will try to make interesting reddit crawlers that give some insight
+reddit crawler	YaboLee/reddit_crawler	20	2025-12-09		Provide two solutions for Reddit data.
+reddit crawler	larissaleite/reddit-crawler	17	2026-07-22		
+reddit crawler	lucas-tulio/simple-reddit-crawler	17	2025-12-09	gpl-2.0	Lightweight Reddit crawler using Python and MySQL
+reddit crawler	RaccoonTamer/Reddit-Crawler	17	2026-05-15	mit	Reddit Media Downloader is a Python application designed to simplify the process
+reddit crawler	aneesh-aparajit/reddit-crawler	12	2026-10-10		Reddit Crawler API for collecting datasets from Reddit.
+reddit crawler	lbenedetto/RedditCrawler	7	2022-06-03		
+reddit crawler	Kumar-Kishan/reddit-crawler	7	2024-11-27		Crawl reddit for images and get all the image links in json
+reddit scraper without api	vewaxio/ScrapiReddit	17	2026-10-27	mit	A complete Reddit scraper without API keys, available with every sort/filter, re
+reddit scraper without api	aryanwf/reddit-user-scraper	4	2026-02-27		Reddit Scraper (without API)
+reddit scraper without api	Wasabi-Bytes/Reddit-Scraper-Without-API	3	2025-04-13		This Python script allows you to scrape data from the Reddit website using the J
+reddit scraper without api	APUNJIA/Reddit-Scraper-Without-API	0	2026-10-03		Using BeautifulSoup, a python library useful for web scraping, this script helps
+reddit json scraper	0anxt/reddit-json-scraper	5	2026-10-18	mit	A Python tool to download Reddit posts, comments, images, and videos using the p
+reddit json scraper	ScrapingRobert/Reddit-JSON-Scraper	2	2026-05-09	mit	A no-nonsense, multithreaded Python tool to scrape Reddit post JSON directly. Bu
+reddit json scraper	0anxt/reddit-json-scraper-improved	0	2026-04-23	mit	
+reddit rss reader	lalitpagaria/reddit-rss-reader	6	2026-05-06	apache-2.0	Wrapper around Reddit RSS feed. Docs: https://lalitpagaria.github.io/reddit-rss-
+reddit rss reader	Generator/igreddit	3	2026-04-01		IGReddit is a reddit rss reader for iGoogle
+reddit rss reader	marc-maguire/Reddit-RSS-Reader	1	2026-07-18		RSS Reader that parses XML and displays info to users. Uses core data to save pi
+reddit rss reader	alexbobrov1012/RedditRssReader	0	2020-08-02		
+reddit rss reader	anlt149/reddit-rss-reader	0	2021-02-09	mit	This is Reddit RSS reader built by Python
+reddit rss reader	amadeirado/reddit-rss-reader	0	2017-08-25		A simple Reddit rss reader
+reddit rss reader	felipeselau/reddit-e-ink	0	2026-02-26		A lightweight Reddit RSS reader optimized for e-ink devices
+reddit rss reader	zhimoe/ioreddit	0	2019-05-18		a very simple reddit rss reader, only list the link and comments' count
+praw reddit	SirLich/vexillology-bot	5	2022-09-18		PRAW Reddit bot which links SVG images of all flags mentioned in the title of r/
+praw reddit	ravsau/AlexaSkillFootballClub	3	2020-11-28		Code for an an Alexa Voice Skill built using AWS Lambda, DynamoDB and PRAW reddi
+praw reddit	biswaroop1547/Bot-O-Meme	3	2025-08-27		A Telegram bot written in Python to show memes, meanings and other fun hidden in
+praw reddit	Project-Starters/praw	3	2023-03-26	mit	an example of how to use PRAW reddit python API wrapper
+praw reddit	ZappaVinny/Reddit-AI-Bot-Framework	3	2025-03-14		This is a framework for a Reddit Bot designed to comment on Reddit posts. The pr
+praw reddit	BnMcG/SubscribeToCatFacts	1	2015-07-07	gpl-2.0	Reddit bot written in Python 3 using the PRAW Reddit API wrapper for Python. Pos
+praw reddit	mr-devs/changemyview-llm	1	2025-01-24	gpl-3.0	A Streamlit app that employs praw—Reddit's Python API wrapper—in conjunction wit
+praw reddit	manishmania20/praw_reddit	0	2021-01-14	mit	
+reddit archive api	duomaz49/reddit-api-project	0	2025-05-25		Project that utilized Reddit-archive Api
+reddit comments scraper	Dakta/reddit-scraper	7	2026-04-09	bsd-3-clause	A real-time reddit comment scraper. Grabs and parses JSON into a database.
+reddit comments scraper	markjsy/reddit-comment-scraper	1	2022-02-13		Fast reddit comment scraper built in Python
+reddit comments scraper	MartinWang17/market-knowledge	1	2025-06-18	mit	Reddit comment scraper for market research and validation
+reddit comments scraper	keatinge/rust-async-reddit-scraper	1	2023-03-08		Using hyper to write an asynchronous reddit comment scraper
+reddit comments scraper	mnmt/reddit-comment-mediascrape	1	2015-07-20		A reddit comment scraper on the search for links
+reddit comments scraper	djang0dev/Reddit-Comments-Scraper	1	2023-03-07	mit	A simply reddit comment scraper using Puppeteer & google-spreadsheet it returns 
+reddit comments scraper	inevolin/PapaReddit	1	2021-12-14	mit	An easy and minimalistic Reddit comments scraper and reader, works entirely in y
+reddit comments scraper	Brajesh2022/Vote	0	2026-08-31		Reddit Comment Scraper
+github repository recommender	WuXiaolong/github-guide-video	18	2026-10-12		A GitHub repository recommends the video generator skill.
+github repository recommender	jamiis/reporec	2	2017-05-30		Github-repository recommender system based on nearest neighbors with minhash
+github repository recommender	vienna-project/recohub	0	2020-08-09		build Github Repository Recommender Service 
+github repository recommender	FinalTrack/RepoLens	0	2024-06-14		A github repository recommender system
+github repository recommender	MehmetJank/github_repository_recommender	0	2023-07-10		GitHub Repository Recommender is a project that provides user and repository rec
+github repository recommender	univcorp2-ctrl/stock-repo-brushup-automation	0	2026-06-25	mit	Automatically discovers stock-investment related GitHub repositories, recommends
+github repository recommender	Vedid11/OpenSourceCompass	0	2026-09-25		Content-based GitHub repository recommender that uses repository metadata, TF-ID
+github repo scoring	Namanns7cr7/Shipmate-AI	1	2026-07-11		ShipMate AI - agentic release-readiness & auto-fix: an AI agent swarm analyzes a
+github repo scoring	sanepr/githubscore	0	2025-11-02		Score github repo score
+github repo scoring	anupriya18/github-repo-scoring	0	2026-04-07		
+github repo scoring	serenya/github-repo-scoring	0	2026-04-06		A backend application for scoring repositories on GitHub
+github repo scoring	Lingesh-08/github-repository-scoring	0	2025-12-14		Automated tool to evaluate score public GitHub repositories
+github repo scoring	ioannisKatri/github-repo-scoring	0	2024-09-01		
+github repo scoring	oxygen01/github-repository-scoring	0	2025-12-01		Backend application for scoring repositories on GitHub.
+github repo scoring	NonStopMan/github-repo-scoring-app	0	2025-10-15		
+github project health score	lyminhtanh/GithubProjectHealthScoreCalculator	1	2025-01-12		A small program that downloads GitHub data and calculates a health score for ope
+github project health score	vdn-projects/github-project-health-score-calculator	1	2020-09-26		

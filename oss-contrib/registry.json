@@ -1,0 +1,977 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-31T14:07:00+08:00",
+  "round_id": "20261030-1944-01",
+  "eval_path": "rounds/eval-20261030-1944-01.md",
+  "eval_sha256_prefix": "97f31634b6418d57",
+  "week_claim_limit": 2,
+  "week_plan": {
+    "primary": null,
+    "alternates": [],
+    "week_claim_target": 0,
+    "note": "用户暂无时间；本周不认领；有空再排主攻"
+  },
+  "pending_user_B": [
+    "（已记录）愿意签 CLA",
+    "（已记录）主攻前端+agent/Python/LangChain；Java、Go 可进池",
+    "（已记录）1944-01 仅测工作流，不认领",
+    "有空再排真贡献主攻"
+  ],
+  "entries": [
+    {
+      "issue_key": "pipeshub-ai/pipeshub-ai#5079",
+      "项目名": "pipeshub-ai",
+      "仓库链接": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "fullName": "pipeshub-ai/pipeshub-ai",
+      "语言": "Python",
+      "Stars": 3896,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/pipeshub-ai/pipeshub-ai/issues/5079",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 1,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "Agent 的开源 context 层（接 Slack/Drive 等），偏工程落地与 RAG/知识接入。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "Agent 的开源 context 层（接 Slack/Drive 等），偏工程落地与 RAG/知识接入。",
+      "风险": "issue 偏集成目录类，挑有技术深度的再认领。",
+      "未指派_gfi_hw": "17 / 0",
+      "示例issues": [
+        {
+          "number": 5079,
+          "url": "https://github.com/pipeshub-ai/pipeshub-ai/issues/5079"
+        },
+        {
+          "number": 5078,
+          "url": "https://github.com/pipeshub-ai/pipeshub-ai/issues/5078"
+        }
+      ],
+      "eval_均分": 5.0
+    },
+    {
+      "issue_key": "maximhq/bifrost#6119",
+      "项目名": "bifrost",
+      "仓库链接": "https://github.com/maximhq/bifrost",
+      "fullName": "maximhq/bifrost",
+      "语言": "Go",
+      "Stars": 9219,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/maximhq/bifrost/issues/6119",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 2,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "语言偏好待确认:Go；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:用户会Go，可进池",
+      "适合理由": "开源 AI/LLM/MCP/Agent 网关，贴合全栈与 agent 基础设施，Go 工程故事清晰。",
+      "风险": "较新高星仓，竞争认领可能上升；需确认 CLA/贡献指南。",
+      "未指派_gfi_hw": "11 / 0",
+      "示例issues": [
+        {
+          "number": 6119,
+          "url": "https://github.com/maximhq/bifrost/issues/6119"
+        },
+        {
+          "number": 5954,
+          "url": "https://github.com/maximhq/bifrost/issues/5954"
+        }
+      ],
+      "eval_均分": 4.9
+    },
+    {
+      "issue_key": "vshulcz/deja-vu#5653",
+      "项目名": "deja-vu",
+      "仓库链接": "https://github.com/vshulcz/deja-vu",
+      "fullName": "vshulcz/deja-vu",
+      "语言": "Go",
+      "Stars": 1339,
+      "Stars记录日": "2026-10-30",
+      "License": "MIT",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/vshulcz/deja-vu/issues/5653",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 3,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "语言偏好待确认:Go；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:用户会Go，可进池",
+      "适合理由": "从会话历史构建 coding agent memory，贴合 harness/记忆层。",
+      "风险": "较新小仓，合并快但社区规范尚在成型；可能 CLA。",
+      "未指派_gfi_hw": "13 / 0",
+      "示例issues": [
+        {
+          "number": 5653,
+          "url": "https://github.com/vshulcz/deja-vu/issues/5653"
+        },
+        {
+          "number": 5652,
+          "url": "https://github.com/vshulcz/deja-vu/issues/5652"
+        }
+      ],
+      "eval_均分": 4.9
+    },
+    {
+      "issue_key": "mex-memory/mex#318",
+      "项目名": "mex",
+      "仓库链接": "https://github.com/mex-memory/mex",
+      "fullName": "mex-memory/mex",
+      "语言": "TypeScript",
+      "Stars": 1781,
+      "Stars记录日": "2026-10-30",
+      "License": "MIT",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/mex-memory/mex/issues/318",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 4,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "团队与 Agent 共享的仓库内记忆层，工程协作故事好讲。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "团队与 Agent 共享的仓库内记忆层，工程协作故事好讲。",
+      "风险": "产品叙事强，需确认 issue 非纯文案。",
+      "未指派_gfi_hw": "5 / 1",
+      "示例issues": [
+        {
+          "number": 318,
+          "url": "https://github.com/mex-memory/mex/issues/318"
+        },
+        {
+          "number": 269,
+          "url": "https://github.com/mex-memory/mex/issues/269"
+        }
+      ],
+      "eval_均分": 4.41
+    },
+    {
+      "issue_key": "nitrocloudofficial/nitrostack#23",
+      "项目名": "nitrostack",
+      "仓库链接": "https://github.com/nitrocloudofficial/nitrostack",
+      "fullName": "nitrocloudofficial/nitrostack",
+      "语言": "TypeScript",
+      "Stars": 2558,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/nitrocloudofficial/nitrostack/issues/23",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 5,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "全栈 TS 框架，用于构建生产级 MCP server 与 AI-native 应用。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "全栈 TS 框架，用于构建生产级 MCP server 与 AI-native 应用。",
+      "风险": "未抽样合并率；全栈 demo 与生产路径需区分。",
+      "未指派_gfi_hw": "8 / 0",
+      "示例issues": [
+        {
+          "number": 23,
+          "url": "https://github.com/nitrocloudofficial/nitrostack/issues/23"
+        },
+        {
+          "number": 20,
+          "url": "https://github.com/nitrocloudofficial/nitrostack/issues/20"
+        }
+      ],
+      "eval_均分": 4.4
+    },
+    {
+      "issue_key": "future-agi/future-agi#3563",
+      "项目名": "future-agi",
+      "仓库链接": "https://github.com/future-agi/future-agi",
+      "fullName": "future-agi/future-agi",
+      "语言": "Python",
+      "Stars": 2227,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": true,
+      "Issue链接": "https://github.com/future-agi/future-agi/issues/3563",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 6,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "开PR前须签CLA（B）；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "评测/观测/改进 LLM 与 Agent 的端到端平台，gfi 多、新人友好。",
+      "风险": "星数中等、gfi 很多，适合首 PR；确认维护响应。",
+      "未指派_gfi_hw": "20 / 0",
+      "示例issues": [
+        {
+          "number": 3563,
+          "url": "https://github.com/future-agi/future-agi/issues/3563"
+        },
+        {
+          "number": 2665,
+          "url": "https://github.com/future-agi/future-agi/issues/2665"
+        }
+      ],
+      "eval_均分": 4.65
+    },
+    {
+      "issue_key": "truera/trulens#2891",
+      "项目名": "trulens",
+      "仓库链接": "https://github.com/truera/trulens",
+      "fullName": "truera/trulens",
+      "语言": "Python",
+      "Stars": 3621,
+      "Stars记录日": "2026-10-30",
+      "License": "MIT",
+      "CLA要求": true,
+      "Issue链接": "https://github.com/truera/trulens/issues/2891",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 7,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "开PR前须签CLA（B）；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "LLM/Agent 评测与追踪，直接对应 evaluation harness 方向。",
+      "风险": "可能有 CLA；评测类 issue 需读清指标定义。",
+      "未指派_gfi_hw": "5 / 15",
+      "示例issues": [
+        {
+          "number": 2891,
+          "url": "https://github.com/truera/trulens/issues/2891"
+        },
+        {
+          "number": 2880,
+          "url": "https://github.com/truera/trulens/issues/2880"
+        }
+      ],
+      "eval_均分": 4.53
+    },
+    {
+      "issue_key": "anthropics/claude-agent-sdk-python#1441",
+      "项目名": "claude-agent-sdk-python",
+      "仓库链接": "https://github.com/anthropics/claude-agent-sdk-python",
+      "fullName": "anthropics/claude-agent-sdk-python",
+      "语言": "Python",
+      "Stars": 8392,
+      "Stars记录日": "2026-10-30",
+      "License": "MIT",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/anthropics/claude-agent-sdk-python/issues/1441",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 8,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "官方 Claude Agent SDK，agent 工作流与工具调用，Python 友好。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "官方 Claude Agent SDK，agent 工作流与工具调用，Python 友好。",
+      "风险": "官方仓竞争激烈；部分 bug 需对齐 CLI 行为，难度中高。",
+      "未指派_gfi_hw": "9 / 1",
+      "示例issues": [
+        {
+          "number": 1441,
+          "url": "https://github.com/anthropics/claude-agent-sdk-python/issues/1441"
+        },
+        {
+          "number": 1409,
+          "url": "https://github.com/anthropics/claude-agent-sdk-python/issues/1409"
+        }
+      ],
+      "eval_均分": 4.48
+    },
+    {
+      "issue_key": "AgenticResourceRegistry/AgenticResourceRegistry#1971",
+      "项目名": "AgenticResourceRegistry",
+      "仓库链接": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry",
+      "fullName": "AgenticResourceRegistry/AgenticResourceRegistry",
+      "语言": "Python",
+      "Stars": 4534,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": true,
+      "Issue链接": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry/issues/1971",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 9,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "开PR前须签CLA（B）；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "团队内共享 coding agent 资源的自托管注册表，agent 工具链周边。",
+      "风险": "名称长、产品迭代快；筛技术 issue。",
+      "未指派_gfi_hw": "8 / 1",
+      "示例issues": [
+        {
+          "number": 1971,
+          "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry/issues/1971"
+        },
+        {
+          "number": 867,
+          "url": "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry/issues/867"
+        }
+      ],
+      "eval_均分": 4.46
+    },
+    {
+      "issue_key": "editor-code-assistant/eca#211",
+      "项目名": "eca",
+      "仓库链接": "https://github.com/editor-code-assistant/eca",
+      "fullName": "editor-code-assistant/eca",
+      "语言": "Clojure",
+      "Stars": 1044,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/editor-code-assistant/eca/issues/211",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 10,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "语言偏好待确认:Clojure；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:非主攻语言",
+      "适合理由": "编辑器无关的 AI 结对编程助手协议/实现，插件与协议工程。",
+      "风险": "未抽样合并率；协议类改动影响面大。",
+      "未指派_gfi_hw": "7 / 1",
+      "示例issues": [
+        {
+          "number": 211,
+          "url": "https://github.com/editor-code-assistant/eca/issues/211"
+        },
+        {
+          "number": 173,
+          "url": "https://github.com/editor-code-assistant/eca/issues/173"
+        }
+      ],
+      "eval_均分": 4.46
+    },
+    {
+      "issue_key": "truefoundry/trueforge#853",
+      "项目名": "trueforge",
+      "仓库链接": "https://github.com/truefoundry/trueforge",
+      "fullName": "truefoundry/trueforge",
+      "语言": "TypeScript",
+      "Stars": 6400,
+      "Stars记录日": "2026-10-30",
+      "License": "MIT",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/truefoundry/trueforge/issues/853",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 11,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "仅help-wanted兜底，勿唯一主攻；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "自称 open-source agent harness（把 LLM 变成可工作 agent 的运行时层）。",
+      "风险": "仅 help wanted≥3 兜底入选，无未指派 gfi。",
+      "未指派_gfi_hw": "0 / 3",
+      "示例issues": [
+        {
+          "number": 853,
+          "url": "https://github.com/truefoundry/trueforge/issues/853"
+        },
+        {
+          "number": 516,
+          "url": "https://github.com/truefoundry/trueforge/issues/516"
+        }
+      ],
+      "eval_均分": 4.37
+    },
+    {
+      "issue_key": "kyegomez/swarms#1851",
+      "项目名": "swarms",
+      "仓库链接": "https://github.com/kyegomez/swarms",
+      "fullName": "kyegomez/swarms",
+      "语言": "Python",
+      "Stars": 7331,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/kyegomez/swarms/issues/1851",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 12,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "避开纯chore gfi；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "企业级多 Agent 编排框架，agent 工作流主线。",
+      "风险": "清理类 gfi 多，注意避免纯 chore 无故事；可能 CLA。",
+      "未指派_gfi_hw": "3 / 0",
+      "示例issues": [
+        {
+          "number": 1851,
+          "url": "https://github.com/kyegomez/swarms/issues/1851"
+        },
+        {
+          "number": 1838,
+          "url": "https://github.com/kyegomez/swarms/issues/1838"
+        }
+      ],
+      "eval_均分": 4.37
+    },
+    {
+      "issue_key": "potpie-ai/potpie#726",
+      "项目名": "potpie",
+      "仓库链接": "https://github.com/potpie-ai/potpie",
+      "fullName": "potpie-ai/potpie",
+      "语言": "Python",
+      "Stars": 5780,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/potpie-ai/potpie/issues/726",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 13,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "AI Native SDLC 的 Context Graph，代码理解与 agent 工具链。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "AI Native SDLC 的 Context Graph，代码理解与 agent 工具链。",
+      "风险": "偏产品化，需先跑通本地栈。",
+      "未指派_gfi_hw": "4 / 1",
+      "示例issues": [
+        {
+          "number": 726,
+          "url": "https://github.com/potpie-ai/potpie/issues/726"
+        },
+        {
+          "number": 640,
+          "url": "https://github.com/potpie-ai/potpie/issues/640"
+        }
+      ],
+      "eval_均分": 4.34
+    },
+    {
+      "issue_key": "pydantic/logfire#1059",
+      "项目名": "logfire",
+      "仓库链接": "https://github.com/pydantic/logfire",
+      "fullName": "pydantic/logfire",
+      "语言": "Python",
+      "Stars": 4526,
+      "Stars记录日": "2026-10-30",
+      "License": "MIT",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/pydantic/logfire/issues/1059",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 14,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "面向生产 LLM/Agent 的可观测平台，Pydantic 生态，Python 后端。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "面向生产 LLM/Agent 的可观测平台，Pydantic 生态，Python 后端。",
+      "风险": "可观测 instrumentation 需熟悉 OTel。",
+      "未指派_gfi_hw": "4 / 0",
+      "示例issues": [
+        {
+          "number": 1059,
+          "url": "https://github.com/pydantic/logfire/issues/1059"
+        },
+        {
+          "number": 972,
+          "url": "https://github.com/pydantic/logfire/issues/972"
+        }
+      ],
+      "eval_均分": 4.34
+    },
+    {
+      "issue_key": "LearningCircuit/local-deep-research#4961",
+      "项目名": "local-deep-research",
+      "仓库链接": "https://github.com/LearningCircuit/local-deep-research",
+      "fullName": "LearningCircuit/local-deep-research",
+      "语言": "Python",
+      "Stars": 9447,
+      "Stars记录日": "2026-10-30",
+      "License": "MIT",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/LearningCircuit/local-deep-research/issues/4961",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 15,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "本地优先深度研究 Agent，工程向 agent 应用而非纯算法。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "本地优先深度研究 Agent，工程向 agent 应用而非纯算法。",
+      "风险": "研究型 agent，环境依赖多；CLA 可能。",
+      "未指派_gfi_hw": "1 / 5",
+      "示例issues": [
+        {
+          "number": 4961,
+          "url": "https://github.com/LearningCircuit/local-deep-research/issues/4961"
+        }
+      ],
+      "eval_均分": 4.24
+    },
+    {
+      "issue_key": "IBM/mcp-context-forge#5986",
+      "项目名": "mcp-context-forge",
+      "仓库链接": "https://github.com/IBM/mcp-context-forge",
+      "fullName": "IBM/mcp-context-forge",
+      "语言": "Python",
+      "Stars": 4729,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": true,
+      "Issue链接": "https://github.com/IBM/mcp-context-forge/issues/5986",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 16,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "开PR前须签CLA（B）；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "MCP/A2A/API 前置网关与注册中心，MCP 生态贡献空间大。",
+      "风险": "IBM 仓常见 CLA；issue 体量大需筛未认领。",
+      "未指派_gfi_hw": "4 / 0",
+      "示例issues": [
+        {
+          "number": 5986,
+          "url": "https://github.com/IBM/mcp-context-forge/issues/5986"
+        },
+        {
+          "number": 5848,
+          "url": "https://github.com/IBM/mcp-context-forge/issues/5848"
+        }
+      ],
+      "eval_均分": 4.24
+    },
+    {
+      "issue_key": "twinnydotdev/twinny#386",
+      "项目名": "twinny",
+      "仓库链接": "https://github.com/twinnydotdev/twinny",
+      "fullName": "twinnydotdev/twinny",
+      "语言": "TypeScript",
+      "Stars": 3686,
+      "Stars记录日": "2026-10-30",
+      "License": "MIT",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/twinnydotdev/twinny/issues/386",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 17,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "VS Code 开源 AI 编程助手（补全/agent/chat），前端+插件工程向。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "VS Code 开源 AI 编程助手（补全/agent/chat），前端+插件工程向。",
+      "风险": "插件仓，需本地 VS Code 调试环境。",
+      "未指派_gfi_hw": "7 / 9",
+      "示例issues": [
+        {
+          "number": 386,
+          "url": "https://github.com/twinnydotdev/twinny/issues/386"
+        },
+        {
+          "number": 337,
+          "url": "https://github.com/twinnydotdev/twinny/issues/337"
+        }
+      ],
+      "eval_均分": 4.22
+    },
+    {
+      "issue_key": "katanemo/plano#787",
+      "项目名": "plano",
+      "仓库链接": "https://github.com/katanemo/plano",
+      "fullName": "katanemo/plano",
+      "语言": "Rust",
+      "Stars": 7102,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/katanemo/plano/issues/787",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 18,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "语言偏好待确认:Rust；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:非主攻语言",
+      "适合理由": "面向 agentic 应用的 AI-native 代理/数据面（路由、可观测），Rust/代理工程。",
+      "风险": "代理/WASM 相关 issue 可能偏底层。",
+      "未指派_gfi_hw": "3 / 9",
+      "示例issues": [
+        {
+          "number": 787,
+          "url": "https://github.com/katanemo/plano/issues/787"
+        },
+        {
+          "number": 429,
+          "url": "https://github.com/katanemo/plano/issues/429"
+        }
+      ],
+      "eval_均分": 4.13
+    },
+    {
+      "issue_key": "agentscope-ai/agentscope-java#2271",
+      "项目名": "agentscope-java",
+      "仓库链接": "https://github.com/agentscope-ai/agentscope-java",
+      "fullName": "agentscope-ai/agentscope-java",
+      "语言": "Java",
+      "Stars": 6196,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/agentscope-ai/agentscope-java/issues/2271",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 19,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "语言偏好待确认:Java；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:用户会Java，可进池",
+      "适合理由": "分布式生产级 Java Agent 框架，覆盖用户 Java 语言选项。",
+      "风险": "以 help wanted 为主；Java 栈与文档语言需适应。",
+      "未指派_gfi_hw": "1 / 13",
+      "示例issues": [
+        {
+          "number": 2271,
+          "url": "https://github.com/agentscope-ai/agentscope-java/issues/2271"
+        }
+      ],
+      "eval_均分": 4.12
+    },
+    {
+      "issue_key": "msoedov/agentic_security#78",
+      "项目名": "agentic_security",
+      "仓库链接": "https://github.com/msoedov/agentic_security",
+      "fullName": "msoedov/agentic_security",
+      "语言": "Python",
+      "Stars": 2035,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/msoedov/agentic_security/issues/78",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 20,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "Agentic LLM 漏洞扫描/红队套件，与 garak 互补的安全线。；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "Agentic LLM 漏洞扫描/红队套件，与 garak 互补的安全线。",
+      "风险": "安全扫描类，需谨慎处理示例与报告。",
+      "未指派_gfi_hw": "3 / 3",
+      "示例issues": [
+        {
+          "number": 78,
+          "url": "https://github.com/msoedov/agentic_security/issues/78"
+        },
+        {
+          "number": 76,
+          "url": "https://github.com/msoedov/agentic_security/issues/76"
+        }
+      ],
+      "eval_均分": 4.09
+    },
+    {
+      "issue_key": "traceloop/openllmetry#4069",
+      "项目名": "openllmetry",
+      "仓库链接": "https://github.com/traceloop/openllmetry",
+      "fullName": "traceloop/openllmetry",
+      "语言": "Python",
+      "Stars": 7512,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/traceloop/openllmetry/issues/4069",
+      "类型": null,
+      "状态": "候选",
+      "优先级": "待定",
+      "排序": 21,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "合并率偏低，勿首周主攻；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "基于 OpenTelemetry 的 GenAI 可观测性，偏后端/平台工程。",
+      "风险": "合并率样本约 57%；部分 instrumentation 依赖版本坑。",
+      "未指派_gfi_hw": "7 / 11",
+      "示例issues": [
+        {
+          "number": 4069,
+          "url": "https://github.com/traceloop/openllmetry/issues/4069"
+        },
+        {
+          "number": 3492,
+          "url": "https://github.com/traceloop/openllmetry/issues/3492"
+        }
+      ],
+      "eval_均分": 4.0
+    },
+    {
+      "issue_key": "higress-group/higress#872",
+      "项目名": "higress",
+      "仓库链接": "https://github.com/higress-group/higress",
+      "fullName": "higress-group/higress",
+      "语言": "Go",
+      "Stars": 9676,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": false,
+      "Issue链接": "https://github.com/higress-group/higress/issues/872",
+      "类型": null,
+      "状态": "候补",
+      "优先级": "待定",
+      "排序": 90,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "临界，不进本轮picked；是否保留候补待用户；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:用户会Go，可进池",
+      "适合理由": "云原生 AI Gateway，国内生态活跃，网关+插件工程向。",
+      "风险": "合并率样本约 43%；网关贡献曲线陡。",
+      "未指派_gfi_hw": "7 / 19",
+      "示例issues": [
+        {
+          "number": 872,
+          "url": "https://github.com/higress-group/higress/issues/872"
+        },
+        {
+          "number": 774,
+          "url": "https://github.com/higress-group/higress/issues/774"
+        }
+      ],
+      "eval_均分": 4.01
+    },
+    {
+      "issue_key": "NVIDIA/garak#1349",
+      "项目名": "garak",
+      "仓库链接": "https://github.com/NVIDIA/garak",
+      "fullName": "NVIDIA/garak",
+      "语言": "Python",
+      "Stars": 9783,
+      "Stars记录日": "2026-10-30",
+      "License": "Apache-2.0",
+      "CLA要求": true,
+      "Issue链接": "https://github.com/NVIDIA/garak/issues/1349",
+      "类型": null,
+      "状态": "候补",
+      "优先级": "待定",
+      "排序": 91,
+      "负责人": null,
+      "开始日": null,
+      "合并日": null,
+      "最后活动日": "2026-10-30",
+      "PR链接": null,
+      "面试素材": null,
+      "需用户确认草稿": false,
+      "关联轮次": "20261030-1944-01",
+      "关联Todos": null,
+      "备注": "开PR前须签CLA（B）；临界，不进本轮picked；是否保留候补待用户；用户2026-10-30：时间待定，本周不认领；偏好：愿签CLA；主攻前端+agent/Python；1944仅测流；语言亲和:贴合主攻",
+      "适合理由": "LLM 漏洞扫描器，可写「安全评测/红队」简历故事；NVIDIA 背书。",
+      "风险": "近 30 条关闭 PR 合并率约 57%（低于 70% 参考）；CONTRIBUTING 提及 CLA。",
+      "未指派_gfi_hw": "15 / 0",
+      "示例issues": [
+        {
+          "number": 1349,
+          "url": "https://github.com/NVIDIA/garak/issues/1349"
+        },
+        {
+          "number": 1275,
+          "url": "https://github.com/NVIDIA/garak/issues/1275"
+        }
+      ],
+      "eval_均分": 3.99
+    }
+  ],
+  "status": "stored",
+  "notion_sync": "done",
+  "user_decision_20261030_2018": {
+    "source": "BrainStorm 01 转达用户原话",
+    "text": "现在我没有时间去搞开源贡献，所以这些不一定要本周做。可以先入库看看，时间待定。",
+    "effects": [
+      "正式入库",
+      "本周不设主攻/认领",
+      "优先级标待定",
+      "CLA/语言四问暂不催"
+    ]
+  },
+  "user_prefs_20261030_2021": {
+    "source": "BrainStorm 01 转达用户原话",
+    "willing_CLA": true,
+    "focus": "前端 + agent（Python，含 LangChain）",
+    "also_languages": [
+      "Java/Spring Boot",
+      "Go"
+    ],
+    "round_1944_01": "仅测试工作流，非真开始贡献；保持待定、不认领"
+  },
+  "notion": {
+    "url": "https://app.notion.com/p/645551b09be74ad485793f6681170d2c",
+    "collection": "collection://ff0c0a33-17f7-4f10-93ee-9699a5240691",
+    "created": 23,
+    "updated": 0,
+    "failed": 0,
+    "synced_at": "2026-10-30T20:21:00+08:00",
+    "notes": "关联轮次未写 relation（轮次库尚无1944-01）；备注含 round_id；schema 增待定/候补/Clojure"
+  },
+  "notion_schema_pending": {
+    "decided_at": "2026-10-31T14:07:00+08:00",
+    "executor": "通义千问（拟）",
+    "changes": [
+      "新增 issue 打开时间",
+      "新增 分配情况（未分配/分配给谁）",
+      "默认视图按 issue 打开时间从新到旧",
+      "Stars 记录日 → issue 记录日",
+      "写入方：Memory/通义千问/豆包工作助理；管家主写进度字段"
+    ],
+    "status": "awaiting_qwen_schema_edit"
+  }
+}
