@@ -126,3 +126,4 @@ v1 保留，新增：
 3. 用原命令重启服务、修改服务配置、设置开机自启动，都算 A 类，直接做，无需问用户。
 4. 补入 v3-27：用 cookie 的 skill（paperclip、qzcli）可以安装使用；slopornot、BypassAIGC 作为 humanizer 的备选，只在 humanizer 改后的专门检测站实测 AI 率不通过时才用。
 5. 私有仓库 agent-search-station-xieyongzhen 作为个人工作流的主真相源；公开仓库 search-station-workflow 只放通用模板。
+6. 评分时某维度证据弱（只有一个来源）则权重减半，空出的权重按其余维度原有比例分配，保证总权重为 1；各轮统一用这个算法（用户 2026-10-31 14:50 同意）。
