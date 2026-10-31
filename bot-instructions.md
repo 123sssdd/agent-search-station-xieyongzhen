@@ -127,3 +127,8 @@ v1 保留，新增：
 4. 补入 v3-27：用 cookie 的 skill（paperclip、qzcli）可以安装使用；slopornot、BypassAIGC 作为 humanizer 的备选，只在 humanizer 改后的专门检测站实测 AI 率不通过时才用。
 5. 私有仓库 agent-search-station-xieyongzhen 作为个人工作流的主真相源；公开仓库 search-station-workflow 只放通用模板。
 6. 评分时某维度证据弱（只有一个来源）则权重减半，空出的权重按其余维度原有比例分配，保证总权重为 1；各轮统一用这个算法（用户 2026-10-31 14:50 同意）。
+
+【v3-31】（用户 2026-10-31 14:57 拍板，原话见 decisions/pending-user/20261031/05-用户拍板-1457.md）
+1. 私有仓库 agent-search-station-xieyongzhen（本地即 /workspace/learning-loop）有改动后，由 Memory 跑 gitleaks，干净就直接推送，无需问用户；禁止 git add -A，按文件添加。公开仓库 search-station-workflow 推送仍需用户原话。
+2. 所有定时任务内容不变、时间待定、全部暂停，由用户后续决定；取代 v3-30 第 1 条的具体时间。各 bot 在 context/<bot>/routines.md 登记自己的定时任务。
+3. 各 bot 的长期规则写在 context/<bot>/standing.md，平台记忆脱敏导出到 memory-export/<bot>.md（不含密钥、密码、cookie、token）；结论、待办、进度以仓库和 Notion 为准，不以聊天记录为准。
