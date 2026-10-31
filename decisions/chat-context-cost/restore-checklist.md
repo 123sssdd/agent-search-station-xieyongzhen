@@ -77,3 +77,4 @@
 - 每个 bot 恢复时还要读：`context/<bot>/routines.md`（定时任务登记，记录内容和原时间；按 v3-31 时间待定、全部暂停，由用户决定何时恢复）和 `memory-export/<bot>.md`（平台记忆的脱敏导出，用来在新 bot 里重建记忆）。
 - 人工步骤由用户本人做：连接器授权、浏览器登录、密钥设置、新建 bot 本体，bot 不用代办。
 - 恢复抽测（dry-run）暂不做。
+- 定时任务的完整保存原文在 `context/<bot>/routines.md`；用户自建的 skills 在 `skills/user-workflows/`；千问、豆包的指令在 `prompts/`。
