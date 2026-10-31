@@ -74,7 +74,7 @@
   - 以绕过 AI 检测为卖点的 skill，可以作为备选入库。
 - 底线不变：cookie 和密钥的值不进聊天、Notion、仓库，也不打印。v3-27 的其他底线照旧：不绕过平台封锁；花钱、以用户身份对外发布或投稿，仍需用户先确认。
 
-## Playwright MCP（2026-10-31 14:13 用户拍板正式写入，待最终确认添加）
+## Playwright MCP（2026-10-31 14:59 用户同意，已写入账号配置 user-playwright，已连上，25 个工具）
 - 实测：decisions/playwright-mcp/Searcher-20261030-0104.md
 - 拟用配置：`npx -y @playwright/mcp@0.0.83 --headless --browser chrome --isolated`（box 上运行；账号级，其他 bot 同样可见）
 - 用途：只在需要点 UI 时使用，比如 Notion Feed 切视图、需要交互的页面；常规搜索仍走 Firecrawl → SearXNG → curl_cffi → Jina
